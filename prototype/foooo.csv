@@ -1,0 +1,999 @@
+
+Nom de l'entreprise : 
+NPA : 
+Adresse : 
+Ville : 
+Pays : 
+
+
+Heure : 23:19:23
+Date : 14.12.2015
+
+NUMÉRO DE PIÈCE;DOSSIER;GROUPE;POSITION;DÉPARTEMENT;STATUT;QTE;DESCRIPTION;NORME;UTILISATION;SITUATION;MATIÈRE;LONGUEUR;LARGEUR;EPAISSEUR;MASSE;SURFACE;TRAITEMENT;COULEUR;NIVEAU;QUANTITÉ
+
+Esquisse S10 - Façade;;;;;;1;;;;;;;;;;;;;0;1
+10-SC Bas-003;;;;;;4;;;;;;;;;;;;;0;4
+  Esquisse 10-SC Bas-003;;;;;;1;;;;;;;;;;;;;1;4
+  10-P-2100;10;Pièce;-;Tôlerie;Chantier;1;Tôle acier 3mm;-;-;-;Acier;197.05;180;3;0.83;72743.43;Peint Antirouille;Zimo Z1 60my;1;4
+    ;;;;;;-;Sheet;;;;;;;;0.83;;;;-1;
+  10-P-8000;10;Pièce;-;Visserie;Chantier;2;HSA M12x100;-;-;-;Acier;0;0;0;0;0;Zingué bleu;-;1;8
+10-SC Bas-000;;;;;;21;;;;;;;;;;;;;0;21
+  Esquisse 10-SC Bas-000;;;;;;1;;;;;;;;;;;;;1;21
+  10-P-2100;10;Pièce;-;Tôlerie;Chantier;1;Tôle acier 3mm;-;-;-;Acier;197.05;180;3;0.83;72743.43;Peint Antirouille;Zimo Z1 60my;1;21
+    ;;;;;;-;Sheet;;;;;;;;0.83;;;;-1;
+  10-P-2101;10;Pièce;-;Tôlerie;Chantier;1;Tôle acier 4mm;-;-;-;Acier;400;355.98;4;3.55;232099.37;Peint Antirouille;Zimo Z1 60my;1;21
+    ;;;;;;-;Sheet;;;;;;;;3.55;;;;-1;
+  10-P-2102;10;Pièce;-;Tôlerie;Chantier;1;Tôle acier 4mm;-;-;-;Acier;200.99;173.99;4;0.86;57924.39;Peint Antirouille;Zimo Z1 60my;1;21
+    ;;;;;;-;Sheet;;;;;;;;0.86;;;;-1;
+  10-P-2103;10;Pièce;-;Tôlerie;Chantier;1;Tôle acier 4mm;-;-;-;Acier;200.99;173.99;4;0.86;57924.39;Peint Antirouille;Zimo Z1 60my;1;21
+    ;;;;;;-;Sheet;;;;;;;;0.86;;;;-1;
+  10-M12x30 Hexa-00;;;;;;2;;;;;;;;;;;;;1;42
+    10-P-8010;10;Pièce;-;Visserie;Chantier;1;Vis Hexa M12x30;DIN 933;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;2;42
+    10-P-8020;10;Visserie;-;Visserie;Chantier;2;Rondelle M12;DIN 125A;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;2;84
+    10-P-8030;10;Visserie;-;Visserie;Chantier;1;Ecrou M12;DIN 934;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;2;42
+  10-P-8000;10;Pièce;-;Visserie;Chantier;4;HSA M12x100;-;-;-;Acier;0;0;0;0;0;Zingué bleu;-;1;84
+10-SC Bas-001;;;;;;4;;;;;;;;;;;;;0;4
+  Esquisse 10-SC Bas-001;;;;;;1;;;;;;;;;;;;;1;4
+  10-P-2104;10;Pièce;-;Tôlerie;Chantier;1;Tôle acier 3mm;-;-;-;Acier;197.05;180;3;0.71;63991.79;Peint Antirouille;Zimo Z1 60my;1;4
+    ;;;;;;-;Sheet;;;;;;;;0.71;;;;-1;
+  10-P-2101;10;Pièce;-;Tôlerie;Chantier;1;Tôle acier 4mm;-;-;-;Acier;400;355.98;4;3.55;232099.37;Peint Antirouille;Zimo Z1 60my;1;4
+    ;;;;;;-;Sheet;;;;;;;;3.55;;;;-1;
+  10-P-2102;10;Pièce;-;Tôlerie;Chantier;1;Tôle acier 4mm;-;-;-;Acier;200.99;173.99;4;0.86;57924.39;Peint Antirouille;Zimo Z1 60my;1;4
+    ;;;;;;-;Sheet;;;;;;;;0.86;;;;-1;
+  10-P-2103;10;Pièce;-;Tôlerie;Chantier;1;Tôle acier 4mm;-;-;-;Acier;200.99;173.99;4;0.86;57924.39;Peint Antirouille;Zimo Z1 60my;1;4
+    ;;;;;;-;Sheet;;;;;;;;0.86;;;;-1;
+  10-M12x30 Hexa-00;;;;;;2;;;;;;;;;;;;;1;8
+    10-P-8010;10;Pièce;-;Visserie;Chantier;1;Vis Hexa M12x30;DIN 933;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;2;8
+    10-P-8020;10;Visserie;-;Visserie;Chantier;2;Rondelle M12;DIN 125A;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;2;16
+    10-P-8030;10;Visserie;-;Visserie;Chantier;1;Ecrou M12;DIN 934;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;2;8
+  10-P-8000;10;Pièce;-;Visserie;Chantier;4;HSA M12x100;-;-;-;Acier;0;0;0;0;0;Zingué bleu;-;1;16
+10-SC Bas-002;;;;;;6;;;;;;;;;;;;;0;6
+  Esquisse 10-SC Bas-002;;;;;;1;;;;;;;;;;;;;1;6
+  10-P-2100;10;Pièce;-;Tôlerie;Chantier;1;Tôle acier 3mm;-;-;-;Acier;197.05;180;3;0.83;72743.43;Peint Antirouille;Zimo Z1 60my;1;6
+    ;;;;;;-;Sheet;;;;;;;;0.83;;;;-1;
+  10-M12x40 Hexa-00;;;;;;2;;;;;;;;;;;;;1;12
+    10-P-8015;10;Pièce;-;Visserie;Chantier;1;Vis Hexa M12x40;DIN 933;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;2;12
+    10-P-8020;10;Visserie;-;Visserie;Chantier;2;Rondelle M12;DIN 125A;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;2;24
+    10-P-8030;10;Visserie;-;Visserie;Chantier;1;Ecrou M12;DIN 934;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;2;12
+10-E-4100;10;Assemblage;-;Acier;Chantier;5;SC sous Dalle;-;-;-;Divers;220;140;140;3.15;146580.31;Peint Antirouille;Zimo Z1 60my;0;5
+  Esquisse 10-E-4100;;;;;;1;;;;;;;;;;;;;1;5
+  10-P-2010;10;Pièce;-;Tôlerie;Production;1;Tôle acier 3mm manchon;-;-;-;Acier;231.09;130;3;0.73;64155.32;Brut;-;1;5
+    ;;;;;;-;Sheet;;;;;;;;0.73;;;;-1;
+  10-P-2020;10;Pièce;-;Tôlerie;Production;1;Tôle acier 10mm;-;-;-;Acier;220;140;10;2.38;68923.88;Brut;-;1;5
+  10-P-8000;10;Pièce;-;Visserie;Chantier;2;HSA M12x100;-;-;-;Acier;0;0;0;0;0;Zingué bleu;-;1;10
+10-E-4000;10;Assemblage;-;Acier;Chantier;1;Cadre tubulaire;-;-;-;Divers;3495;2571.67;184;250.70;27895348.92;IGP 5803 E 71755 A10;-;0;1
+  Esquisse 10-E-4000;;;;;;1;;;;;;;;;;;;;1;1
+  10-P-0000;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;3495;120;60;36.83;2334566.10;Brut;-;1;1
+  10-P-0001;10;Pièce;-;Usinage Acier;Production;3;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;3495;120;60;36.84;2334606.16;Brut;-;1;3
+  10-P-0100;10;Pièce;-;Usinage Acier;Production;4;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;998.33;120;60;10.53;668955.49;Brut;-;1;4
+  10-P-0101;10;Pièce;-;Usinage Acier;Production;2;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;335;120;60;3.53;226248.00;Brut;-;1;2
+  10-P-0150;10;Pièce;-;Usinage Acier;Production;2;Tube carré MSH 60x60x3.2;EN 10210;-;-;Acier;998.33;60;60;5.55;439624.81;Brut;-;1;2
+  10-P-0151;10;Pièce;-;Usinage Acier;Production;1;Tube carré MSH 60x60x3.2;EN 10210;-;-;Acier;335;60;60;1.86;148455.53;Brut;-;1;1
+  10-P-0200;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;2556.67;18;12;3.96;1774465.73;Brut;-;1;1
+  10-P-0201;10;Pièce;-;Usinage Acier;Production;4;Raico 129005;-;-;-;Acier;3005;18;12;4.43;1530335.42;Brut;-;1;4
+  10-P-0202;10;Pièce;-;Usinage Acier;Production;4;Raico 129005;-;-;-;Acier;992.33;18;12;1.43;462697.10;Brut;-;1;4
+  10-P-0203;10;Pièce;-;Usinage Acier;Production;2;Raico 129005;-;-;-;Acier;329;18;12;0.47;154126.26;Brut;-;1;2
+  10-P-3000;10;Pièce;-;Achat;Production;12;Cale à verre Raico 167391;-;-;-;Alu;100;49;18;0.05;14127.90;Brut;-;1;12
+  10-P-2054;10;Pièce;-;Tôlerie;Chantier;2;Tôle alu 2mm;-;-;-;Alu;1060.32;614.98;2;3.52;1308831.05;IGP 5803 E 71755 A10;-;1;2
+    ;;;;;;-;Sheet;;;;;;;;3.52;;;;-1;
+  10-P-2055;10;Pièce;-;Tôlerie;Chantier;1;Tôle alu 2mm;-;-;-;Alu;614.98;396.98;2;1.31;487546.09;IGP 5803 E 71755 A10;-;1;1
+    ;;;;;;-;Sheet;;;;;;;;1.31;;;;-1;
+  10-P-2050;10;Pièce;-;Tôlerie;Chantier;2;Tôle alu 2mm;-;-;-;Alu;1060.32;192.98;2;1.10;410486.69;IGP 5803 E 71755 A10;-;1;2
+    ;;;;;;-;Sheet;;;;;;;;1.10;;;;-1;
+  10-P-2051;10;Pièce;-;Tôlerie;Chantier;1;Tôle Alu 2mm;-;-;-;Alu;376.98;172.98;2;0.35;130507.39;IGP 5803 E 71755 A10;-;1;1
+    ;;;;;;-;Sheet;;;;;;;;0.35;;;;-1;
+  10-E-4120;10;Assemblage;-;Acier;Chantier;2;Assemblage Manchon;-;-;-;Divers;111;100;51;0.42;36993.98;Peint Antirouille;Zimo Z1 60my;1;2
+    10-P-2000;10;Pièce;-;Tôlerie;Production;1;Tôle acier 3mm;-;-;-;Acier;304.09;51;3;0.35;31830.46;Brut;-;2;2
+      ;;;;;;-;Sheet;;;;;;;;0.35;;;;-1;
+    10-P-0900;10;Pièce;-;Usinage Acier;Production;2;Rond acier 8mm;-;-;-;Acier;100;8;0;0.04;2581.76;Brut;-;2;4
+  10-P-8007;10;;-;Visserie;Chantier;44;Vis à tôle - Tête cylindrique bombée - St 00x00;-;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;1;44
+  10-E-4121;10;Assemblage;-;Acier;Chantier;1;Assemblage Manchon;-;-;-;Divers;53;100;53;0.29;25258.99;Peint Antirouille;Zimo Z1 60my;1;1
+    10-P-2001;10;Pièce;-;Tôlerie;Production;1;Tôle acier 3mm;-;-;-;Acier;188.09;53;3;0.21;20095.48;Brut;-;2;1
+      ;;;;;;-;Sheet;;;;;;;;0.21;;;;-1;
+    10-P-0900;10;Pièce;-;Usinage Acier;Production;2;Rond acier 8mm;-;-;-;Acier;100;8;0;0.04;2581.76;Brut;-;2;2
+10-E-4001;10;Assemblage;-;Acier;Chantier;1;Cadre tubulaire;-;-;-;Divers;4745;1118.33;184;131.79;13334368.60;IGP 5803 E 71755 A10;-;0;1
+  Esquisse 10-E-4001;;;;;;1;;;;;;;;;;;;;1;1
+  10-P-0002;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;4745;120;60;50.00;3168589.26;Brut;-;1;1
+  10-P-0003;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;3495;120;60;36.83;2334566.10;Brut;-;1;1
+  10-P-0100;10;Pièce;-;Usinage Acier;Production;2;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;998.33;120;60;10.53;668955.49;Brut;-;1;2
+  10-P-0150;10;Pièce;-;Usinage Acier;Production;1;Tube carré MSH 60x60x3.2;EN 10210;-;-;Acier;998.33;60;60;5.55;439624.81;Brut;-;1;1
+  10-P-0208;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;1103.33;18;12;1.71;766509.47;Brut;-;1;1
+  10-P-0207;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;4369;18;12;6.44;2224449.64;Brut;-;1;1
+  10-P-0201;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;3005;18;12;4.43;1530335.42;Brut;-;1;1
+  10-P-0202;10;Pièce;-;Usinage Acier;Production;2;Raico 129005;-;-;-;Acier;992.33;18;12;1.43;462697.10;Brut;-;1;2
+  10-P-3000;10;Pièce;-;Achat;Production;4;Cale à verre Raico 167391;-;-;-;Alu;100;49;18;0.05;14127.90;Brut;-;1;4
+  10-P-2050;10;Pièce;-;Tôlerie;Chantier;1;Tôle alu 2mm;-;-;-;Alu;1060.32;192.98;2;1.10;410486.69;IGP 5803 E 71755 A10;-;1;1
+    ;;;;;;-;Sheet;;;;;;;;1.10;;;;-1;
+  10-E-4120;10;Assemblage;-;Acier;Chantier;3;Assemblage Manchon;-;-;-;Divers;111;100;51;0.42;36993.98;Peint Antirouille;Zimo Z1 60my;1;3
+    10-P-2000;10;Pièce;-;Tôlerie;Production;1;Tôle acier 3mm;-;-;-;Acier;304.09;51;3;0.35;31830.46;Brut;-;2;3
+      ;;;;;;-;Sheet;;;;;;;;0.35;;;;-1;
+    10-P-0900;10;Pièce;-;Usinage Acier;Production;2;Rond acier 8mm;-;-;-;Acier;100;8;0;0.04;2581.76;Brut;-;2;6
+  10-E-4121;10;Assemblage;-;Acier;Chantier;1;Assemblage Manchon;-;-;-;Divers;53;100;53;0.29;25258.99;Peint Antirouille;Zimo Z1 60my;1;1
+    10-P-2001;10;Pièce;-;Tôlerie;Production;1;Tôle acier 3mm;-;-;-;Acier;188.09;53;3;0.21;20095.48;Brut;-;2;1
+      ;;;;;;-;Sheet;;;;;;;;0.21;;;;-1;
+    10-P-0900;10;Pièce;-;Usinage Acier;Production;2;Rond acier 8mm;-;-;-;Acier;100;8;0;0.04;2581.76;Brut;-;2;2
+  10-P-8007;10;;-;Visserie;Chantier;8;Vis à tôle - Tête cylindrique bombée - St 00x00;-;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;1;8
+10-E-4002;10;Assemblage;-;Acier;Chantier;1;Cadre tubulaire;-;-;-;Divers;4745;1118.33;184;142.67;14901709.35;IGP 5803 E 71755 A10;-;0;1
+  Esquisse 10-E-4002;;;;;;1;;;;;;;;;;;;;1;1
+  10-P-0004;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;4745;120;60;50.01;3168813.88;Brut;-;1;1
+  10-P-0002;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;4745;120;60;50.00;3168589.26;Brut;-;1;1
+  10-P-0100;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;998.33;120;60;10.53;668955.49;Brut;-;1;1
+  10-P-0150;10;Pièce;-;Usinage Acier;Production;2;Tube carré MSH 60x60x3.2;EN 10210;-;-;Acier;998.33;60;60;5.55;439624.81;Brut;-;1;2
+  10-P-0208;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;1103.33;18;12;1.71;766509.47;Brut;-;1;1
+  10-P-0207;10;Pièce;-;Usinage Acier;Production;2;Raico 129005;-;-;-;Acier;4369;18;12;6.44;2224449.64;Brut;-;1;2
+  10-P-0202;10;Pièce;-;Usinage Acier;Production;2;Raico 129005;-;-;-;Acier;992.33;18;12;1.43;462697.10;Brut;-;1;2
+  10-P-3000;10;Pièce;-;Achat;Production;6;Cale à verre Raico 167391;-;-;-;Alu;100;49;18;0.05;14127.90;Brut;-;1;6
+  10-E-4120;10;Assemblage;-;Acier;Chantier;2;Assemblage Manchon;-;-;-;Divers;111;100;51;0.42;36993.98;Peint Antirouille;Zimo Z1 60my;1;2
+    10-P-2000;10;Pièce;-;Tôlerie;Production;1;Tôle acier 3mm;-;-;-;Acier;304.09;51;3;0.35;31830.46;Brut;-;2;2
+      ;;;;;;-;Sheet;;;;;;;;0.35;;;;-1;
+    10-P-0900;10;Pièce;-;Usinage Acier;Production;2;Rond acier 8mm;-;-;-;Acier;100;8;0;0.04;2581.76;Brut;-;2;4
+  10-E-4121;10;Assemblage;-;Acier;Chantier;2;Assemblage Manchon;-;-;-;Divers;53;100;53;0.29;25258.99;Peint Antirouille;Zimo Z1 60my;1;2
+    10-P-2001;10;Pièce;-;Tôlerie;Production;1;Tôle acier 3mm;-;-;-;Acier;188.09;53;3;0.21;20095.48;Brut;-;2;2
+      ;;;;;;-;Sheet;;;;;;;;0.21;;;;-1;
+    10-P-0900;10;Pièce;-;Usinage Acier;Production;2;Rond acier 8mm;-;-;-;Acier;100;8;0;0.04;2581.76;Brut;-;2;4
+  10-P-2065;10;Pièce;-;Tôlerie;Chantier;1;Tôle alu 2mm;-;-;-;Alu;1060.32;312.98;2;1.78;662275.30;IGP 5803 E 71755 A10;-;1;1
+    ;;;;;;-;Sheet;;;;;;;;1.78;;;;-1;
+  10-P-8007;10;;-;Visserie;Chantier;8;Vis à tôle - Tête cylindrique bombée - St 00x00;-;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;1;8
+10-E-4003;10;Assemblage;-;Acier;Chantier;1;Cadre tubulaire;-;-;-;Divers;4745;870;184;165.11;13924153.86;IGP 5803 E 71755 A10;-;0;1
+  Esquisse 10-E-4003;;;;;;1;;;;;;;;;;;;;1;1
+  10-P-0005;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;4745;120;60;50.02;3168853.94;Brut;-;1;1
+  10-P-0006;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;4745;120;60;50.01;3168813.88;Brut;-;1;1
+  10-P-0110;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;750;120;60;7.91;503218.26;Brut;-;1;1
+  10-P-0155;10;Pièce;-;Usinage Acier;Production;2;Tube carré MSH 60x60x3.2;EN 10210;-;-;Acier;750;60;60;4.17;330619.23;Brut;-;1;2
+  10-P-0214;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;855;18;12;1.33;594278.41;Brut;-;1;1
+  10-P-0207;10;Pièce;-;Usinage Acier;Production;2;Raico 129005;-;-;-;Acier;4369;18;12;6.44;2224449.64;Brut;-;1;2
+  10-P-0215;10;Pièce;-;Usinage Acier;Production;2;Raico 129005;-;-;-;Acier;744;18;12;1.07;347176.86;Brut;-;1;2
+  10-P-3000;10;Pièce;-;Achat;Production;6;Cale à verre Raico 167391;-;-;-;Alu;100;49;18;0.05;14127.90;Brut;-;1;6
+  10-P-2062;10;Pièce;-;Tôlerie;Chantier;1;Tôle alu 2mm;-;-;-;Alu;811.98;312.98;2;1.36;508469.05;IGP 5803 E 71755 A10;-;1;1
+    ;;;;;;-;Sheet;;;;;;;;1.36;;;;-1;
+  10-E-4120;10;Assemblage;-;Acier;Chantier;1;Assemblage Manchon;-;-;-;Divers;111;100;51;0.42;36993.98;Peint Antirouille;Zimo Z1 60my;1;1
+    10-P-2000;10;Pièce;-;Tôlerie;Production;1;Tôle acier 3mm;-;-;-;Acier;304.09;51;3;0.35;31830.46;Brut;-;2;1
+      ;;;;;;-;Sheet;;;;;;;;0.35;;;;-1;
+    10-P-0900;10;Pièce;-;Usinage Acier;Production;2;Rond acier 8mm;-;-;-;Acier;100;8;0;0.04;2581.76;Brut;-;2;2
+  10-E-4121;10;Assemblage;-;Acier;Chantier;2;Assemblage Manchon;-;-;-;Divers;53;100;53;0.29;25258.99;Peint Antirouille;Zimo Z1 60my;1;2
+    10-P-2001;10;Pièce;-;Tôlerie;Production;1;Tôle acier 3mm;-;-;-;Acier;188.09;53;3;0.21;20095.48;Brut;-;2;2
+      ;;;;;;-;Sheet;;;;;;;;0.21;;;;-1;
+    10-P-0900;10;Pièce;-;Usinage Acier;Production;2;Rond acier 8mm;-;-;-;Acier;100;8;0;0.04;2581.76;Brut;-;2;4
+  10-P-8007;10;;-;Visserie;Chantier;8;Vis à tôle - Tête cylindrique bombée - St 00x00;-;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;1;8
+10-E-4004;10;Assemblage;-;Acier;Chantier;1;Cadre tubulaire;-;-;-;Divers;4099.43;870;184;116.99;11419184.53;IGP 5803 E 71755 A10;-;0;1
+  Esquisse 10-E-4004;;;;;;1;;;;;;;;;;;;;1;1
+  10-P-0007;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;4099.43;120;60;43.20;2737263.56;Brut;-;1;1
+  10-P-0008;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;4099.43;120;60;43.19;2737236.86;Brut;-;1;1
+  10-P-0155;10;Pièce;-;Usinage Acier;Production;2;Tube carré MSH 60x60x3.2;EN 10210;-;-;Acier;750;60;60;4.17;330619.23;Brut;-;1;2
+  10-P-0216;10;Pièce;-;Usinage Acier;Production;2;Raico 129005;-;-;-;Acier;4093.44;18;12;6.04;2084222.28;Brut;-;1;2
+  10-P-0215;10;Pièce;-;Usinage Acier;Production;2;Raico 129005;-;-;-;Acier;744;18;12;1.07;347176.86;Brut;-;1;2
+  10-P-3000;10;Pièce;-;Achat;Production;4;Cale à verre Raico 167391;-;-;-;Alu;100;49;18;0.05;14127.90;Brut;-;1;4
+  10-E-4115;10;Assemblage;-;Acier;Chantier;2;SC Charpente;-;-;-;Divers;120;115;0;0.96;37143.14;Thermolaqué;RAL 9007;1;2
+    10-P-2030;10;Pièce;-;Tôlerie;Production;1;Tôle acier 8mm;-;-;-;Acier;120;8;0;0.69;25786.19;Brut;-;2;2
+    10-P-0330;10;Pièce;-;Usinage Acier;Production;1;Tige filetée M16x115;-;-;-;Acier;115;16;0;0.18;6182.65;Brut;-;2;2
+    10-P-8013;10;Pièce;-;Visserie;Chantier;2;Vis Cylindrique M10x50;-;-;-;Inox Brut 2B;0;0;0;;;Brut;-;2;4
+  10-E-4110;10;Assemblage;-;Acier;Chantier;2;Assemblage Manchon;-;-;-;Divers;230;111;51;2.66;119665.75;Peint Antirouille;Zimo Z1 60my;1;2
+    10-P-2012;10;Pièce;-;Tôlerie;Production;1;Tôle acier 6mm manchon;-;-;-;Acier;230;220.97;"RD3@Annotations@10-P-2012.moPart_c";2.54;112939.33;Brut;-;2;2
+      ;;;;;;-;Sheet;;;;;;;;2.54;;;;-1;
+    10-P-8031;10;Pièce;-;Visserie;Production;1;Ecrou de rallonge M16;-;-;-;Acier;0;0;0;0.13;6726.42;Brut;-;2;2
+  10-E-4121;10;Assemblage;-;Acier;Chantier;2;Assemblage Manchon;-;-;-;Divers;53;100;53;0.29;25258.99;Peint Antirouille;Zimo Z1 60my;1;2
+    10-P-2001;10;Pièce;-;Tôlerie;Production;1;Tôle acier 3mm;-;-;-;Acier;188.09;53;3;0.21;20095.48;Brut;-;2;2
+      ;;;;;;-;Sheet;;;;;;;;0.21;;;;-1;
+    10-P-0900;10;Pièce;-;Usinage Acier;Production;2;Rond acier 8mm;-;-;-;Acier;100;8;0;0.04;2581.76;Brut;-;2;4
+10-E-4005;10;Assemblage;-;Acier;Chantier;1;Cadre tubulaire;-;-;-;Divers;4099.43;1118.33;184;121.05;11918727.46;IGP 5803 E 71755 A10;-;0;1
+  Esquisse 10-E-4005;;;;;;1;;;;;;;;;;;;;1;1
+  10-P-0009;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;4099.43;120;60;43.19;2737236.86;Brut;-;1;1
+  10-P-0008;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;4099.43;120;60;43.19;2737236.86;Brut;-;1;1
+  10-P-0150;10;Pièce;-;Usinage Acier;Production;2;Tube carré MSH 60x60x3.2;EN 10210;-;-;Acier;998.33;60;60;5.55;439624.81;Brut;-;1;2
+  10-P-0216;10;Pièce;-;Usinage Acier;Production;2;Raico 129005;-;-;-;Acier;4093.44;18;12;6.04;2084222.28;Brut;-;1;2
+  10-P-0202;10;Pièce;-;Usinage Acier;Production;2;Raico 129005;-;-;-;Acier;992.33;18;12;1.43;462697.10;Brut;-;1;2
+  10-P-3000;10;Pièce;-;Achat;Production;4;Cale à verre Raico 167391;-;-;-;Alu;100;49;18;0.05;14127.90;Brut;-;1;4
+  10-E-4121;10;Assemblage;-;Acier;Chantier;4;Assemblage Manchon;-;-;-;Divers;53;100;53;0.29;25258.99;Peint Antirouille;Zimo Z1 60my;1;4
+    10-P-2001;10;Pièce;-;Tôlerie;Production;1;Tôle acier 3mm;-;-;-;Acier;188.09;53;3;0.21;20095.48;Brut;-;2;4
+      ;;;;;;-;Sheet;;;;;;;;0.21;;;;-1;
+    10-P-0900;10;Pièce;-;Usinage Acier;Production;2;Rond acier 8mm;-;-;-;Acier;100;8;0;0.04;2581.76;Brut;-;2;8
+  10-E-4115;10;Assemblage;-;Acier;Chantier;2;SC Charpente;-;-;-;Divers;120;115;0;0.96;37143.14;Thermolaqué;RAL 9007;1;2
+    10-P-2030;10;Pièce;-;Tôlerie;Production;1;Tôle acier 8mm;-;-;-;Acier;120;8;0;0.69;25786.19;Brut;-;2;2
+    10-P-0330;10;Pièce;-;Usinage Acier;Production;1;Tige filetée M16x115;-;-;-;Acier;115;16;0;0.18;6182.65;Brut;-;2;2
+    10-P-8013;10;Pièce;-;Visserie;Chantier;2;Vis Cylindrique M10x50;-;-;-;Inox Brut 2B;0;0;0;;;Brut;-;2;4
+  10-E-4110;10;Assemblage;-;Acier;Chantier;2;Assemblage Manchon;-;-;-;Divers;230;111;51;2.66;119665.75;Peint Antirouille;Zimo Z1 60my;1;2
+    10-P-2012;10;Pièce;-;Tôlerie;Production;1;Tôle acier 6mm manchon;-;-;-;Acier;230;220.97;"RD3@Annotations@10-P-2012.moPart_c";2.54;112939.33;Brut;-;2;2
+      ;;;;;;-;Sheet;;;;;;;;2.54;;;;-1;
+    10-P-8031;10;Pièce;-;Visserie;Production;1;Ecrou de rallonge M16;-;-;-;Acier;0;0;0;0.13;6726.42;Brut;-;2;2
+10-E-4006;10;Assemblage;-;Acier;Chantier;1;Cadre tubulaire;-;-;-;Divers;4099.43;1118.33;184;120.89;11905216.81;IGP 5803 E 71755 A10;-;0;1
+  Esquisse 10-E-4006;;;;;;1;;;;;;;;;;;;;1;1
+  10-P-0009;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;4099.43;120;60;43.19;2737236.86;Brut;-;1;1
+  10-P-0010;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;4099.43;120;60;43.19;2737250.21;Brut;-;1;1
+  10-P-0150;10;Pièce;-;Usinage Acier;Production;2;Tube carré MSH 60x60x3.2;EN 10210;-;-;Acier;998.33;60;60;5.55;439624.81;Brut;-;1;2
+  10-P-0216;10;Pièce;-;Usinage Acier;Production;2;Raico 129005;-;-;-;Acier;4093.44;18;12;6.04;2084222.28;Brut;-;1;2
+  10-P-0202;10;Pièce;-;Usinage Acier;Production;2;Raico 129005;-;-;-;Acier;992.33;18;12;1.43;462697.10;Brut;-;1;2
+  10-P-3000;10;Pièce;-;Achat;Production;4;Cale à verre Raico 167391;-;-;-;Alu;100;49;18;0.05;14127.90;Brut;-;1;4
+  10-E-4120;10;Assemblage;-;Acier;Chantier;1;Assemblage Manchon;-;-;-;Divers;111;100;51;0.42;36993.98;Peint Antirouille;Zimo Z1 60my;1;1
+    10-P-2000;10;Pièce;-;Tôlerie;Production;1;Tôle acier 3mm;-;-;-;Acier;304.09;51;3;0.35;31830.46;Brut;-;2;1
+      ;;;;;;-;Sheet;;;;;;;;0.35;;;;-1;
+    10-P-0900;10;Pièce;-;Usinage Acier;Production;2;Rond acier 8mm;-;-;-;Acier;100;8;0;0.04;2581.76;Brut;-;2;2
+  10-E-4121;10;Assemblage;-;Acier;Chantier;2;Assemblage Manchon;-;-;-;Divers;53;100;53;0.29;25258.99;Peint Antirouille;Zimo Z1 60my;1;2
+    10-P-2001;10;Pièce;-;Tôlerie;Production;1;Tôle acier 3mm;-;-;-;Acier;188.09;53;3;0.21;20095.48;Brut;-;2;2
+      ;;;;;;-;Sheet;;;;;;;;0.21;;;;-1;
+    10-P-0900;10;Pièce;-;Usinage Acier;Production;2;Rond acier 8mm;-;-;-;Acier;100;8;0;0.04;2581.76;Brut;-;2;4
+  10-E-4115;10;Assemblage;-;Acier;Chantier;2;SC Charpente;-;-;-;Divers;120;115;0;0.96;37143.14;Thermolaqué;RAL 9007;1;2
+    10-P-2030;10;Pièce;-;Tôlerie;Production;1;Tôle acier 8mm;-;-;-;Acier;120;8;0;0.69;25786.19;Brut;-;2;2
+    10-P-0330;10;Pièce;-;Usinage Acier;Production;1;Tige filetée M16x115;-;-;-;Acier;115;16;0;0.18;6182.65;Brut;-;2;2
+    10-P-8013;10;Pièce;-;Visserie;Chantier;2;Vis Cylindrique M10x50;-;-;-;Inox Brut 2B;0;0;0;;;Brut;-;2;4
+  10-E-4110;10;Assemblage;-;Acier;Chantier;2;Assemblage Manchon;-;-;-;Divers;230;111;51;2.66;119665.75;Peint Antirouille;Zimo Z1 60my;1;2
+    10-P-2012;10;Pièce;-;Tôlerie;Production;1;Tôle acier 6mm manchon;-;-;-;Acier;230;220.97;"RD3@Annotations@10-P-2012.moPart_c";2.54;112939.33;Brut;-;2;2
+      ;;;;;;-;Sheet;;;;;;;;2.54;;;;-1;
+    10-P-8031;10;Pièce;-;Visserie;Production;1;Ecrou de rallonge M16;-;-;-;Acier;0;0;0;0.13;6726.42;Brut;-;2;2
+10-E-4007;10;Assemblage;-;Acier;Chantier;1;Cadre tubulaire;-;-;-;Divers;4022.21;1118.33;184;116.18;11546046.66;IGP 5803 E 71755 A10;-;0;1
+  Esquisse 10-E-4007;;;;;;1;;;;;;;;;;;;;1;1
+  10-P-0012;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;3819.72;120;60;40.18;2546897.54;Brut;-;1;1
+  10-P-0013;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;4014.34;120;60;42.24;2676790.70;Brut;-;1;1
+  10-P-2115;10;Pièce;-;Tôlerie;Production;1;Tôle acier 8mm;-;-;-;Acier;120;61.01;8;0.44;17721.50;Brut;-;1;1
+  10-P-2110;10;Pièce;-;Tôlerie;Production;1;Tôle acier 8mm;-;-;-;Acier;120;61.01;8;0.45;17521.22;Brut;-;1;1
+  10-P-0150;10;Pièce;-;Usinage Acier;Production;2;Tube carré MSH 60x60x3.2;EN 10210;-;-;Acier;998.33;60;60;5.55;439624.81;Brut;-;1;2
+  10-P-0223;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;3907.67;18;12;5.76;1989687.35;Brut;-;1;1
+  10-P-0224;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;4102.30;18;12;6.05;2088728.98;Brut;-;1;1
+  10-P-0202;10;Pièce;-;Usinage Acier;Production;2;Raico 129005;-;-;-;Acier;992.33;18;12;1.43;462697.10;Brut;-;1;2
+  10-P-3000;10;Pièce;-;Achat;Production;4;Cale à verre Raico 167391;-;-;-;Alu;100;49;18;0.05;14127.90;Brut;-;1;4
+  10-E-4111;10;Assemblage;-;Acier;Chantier;2;Assemblage Manchon;-;-;-;Divers;160;111;51;1.89;86110.84;Peint Antirouille;Zimo Z1 60my;1;2
+    10-P-2013;10;Pièce;-;Tôlerie;Production;1;Tôle acier 6mm manchon;-;-;-;Acier;220.97;160;"RD3@Annotations@10-P-2012.moPart_c";1.76;79384.42;Brut;-;2;2
+      ;;;;;;-;Sheet;;;;;;;;1.76;;;;-1;
+    10-P-8031;10;Pièce;-;Visserie;Production;1;Ecrou de rallonge M16;-;-;-;Acier;0;0;0;0.13;6726.42;Brut;-;2;2
+  10-E-4115;10;Assemblage;-;Acier;Chantier;2;SC Charpente;-;-;-;Divers;120;115;0;0.96;37143.14;Thermolaqué;RAL 9007;1;2
+    10-P-2030;10;Pièce;-;Tôlerie;Production;1;Tôle acier 8mm;-;-;-;Acier;120;8;0;0.69;25786.19;Brut;-;2;2
+    10-P-0330;10;Pièce;-;Usinage Acier;Production;1;Tige filetée M16x115;-;-;-;Acier;115;16;0;0.18;6182.65;Brut;-;2;2
+    10-P-8013;10;Pièce;-;Visserie;Chantier;2;Vis Cylindrique M10x50;-;-;-;Inox Brut 2B;0;0;0;;;Brut;-;2;4
+  10-E-4121;10;Assemblage;-;Acier;Chantier;4;Assemblage Manchon;-;-;-;Divers;53;100;53;0.29;25258.99;Peint Antirouille;Zimo Z1 60my;1;4
+    10-P-2001;10;Pièce;-;Tôlerie;Production;1;Tôle acier 3mm;-;-;-;Acier;188.09;53;3;0.21;20095.48;Brut;-;2;4
+      ;;;;;;-;Sheet;;;;;;;;0.21;;;;-1;
+    10-P-0900;10;Pièce;-;Usinage Acier;Production;2;Rond acier 8mm;-;-;-;Acier;100;8;0;0.04;2581.76;Brut;-;2;8
+10-E-4008;10;Assemblage;-;Acier;Chantier;1;Cadre tubulaire;-;-;-;Divers;5054.66;2176.67;184;204.28;20401212.21;IGP 5803 E 71755 A10;-;0;1
+  Esquisse 10-E-4008;;;;;;1;;;;;;;;;;;;;1;1
+  10-P-0014;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;4208.97;120;60;44.29;2806683.85;Brut;-;1;1
+  10-P-0015;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;5054.66;120;60;53.20;3371070.71;Brut;-;1;1
+  10-P-0016;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;4403.60;120;60;46.35;2936603.71;Brut;-;1;1
+  10-P-2115;10;Pièce;-;Tôlerie;Production;2;Tôle acier 8mm;-;-;-;Acier;120;61.01;8;0.44;17721.50;Brut;-;1;2
+  10-P-2110;10;Pièce;-;Tôlerie;Production;1;Tôle acier 8mm;-;-;-;Acier;120;61.01;8;0.45;17521.22;Brut;-;1;1
+  10-P-0150;10;Pièce;-;Usinage Acier;Production;4;Tube carré MSH 60x60x3.2;EN 10210;-;-;Acier;998.33;60;60;5.55;439624.81;Brut;-;1;4
+  10-P-0225;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;4296.92;18;12;6.34;2187770.61;Brut;-;1;1
+  10-P-0226;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;4895.17;18;12;7.22;2492210.09;Brut;-;1;1
+  10-P-0227;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;4491.55;18;12;6.62;2286812.24;Brut;-;1;1
+  10-P-0202;10;Pièce;-;Usinage Acier;Production;4;Raico 129005;-;-;-;Acier;992.33;18;12;1.43;462697.10;Brut;-;1;4
+  10-P-3000;10;Pièce;-;Achat;Production;8;Cale à verre Raico 167391;-;-;-;Alu;100;49;18;0.05;14127.90;Brut;-;1;8
+  10-E-4120;10;Assemblage;-;Acier;Chantier;2;Assemblage Manchon;-;-;-;Divers;111;100;51;0.42;36993.98;Peint Antirouille;Zimo Z1 60my;1;2
+    10-P-2000;10;Pièce;-;Tôlerie;Production;1;Tôle acier 3mm;-;-;-;Acier;304.09;51;3;0.35;31830.46;Brut;-;2;2
+      ;;;;;;-;Sheet;;;;;;;;0.35;;;;-1;
+    10-P-0900;10;Pièce;-;Usinage Acier;Production;2;Rond acier 8mm;-;-;-;Acier;100;8;0;0.04;2581.76;Brut;-;2;4
+  10-E-4111;10;Assemblage;-;Acier;Chantier;3;Assemblage Manchon;-;-;-;Divers;160;111;51;1.89;86110.84;Peint Antirouille;Zimo Z1 60my;1;3
+    10-P-2013;10;Pièce;-;Tôlerie;Production;1;Tôle acier 6mm manchon;-;-;-;Acier;220.97;160;"RD3@Annotations@10-P-2012.moPart_c";1.76;79384.42;Brut;-;2;3
+      ;;;;;;-;Sheet;;;;;;;;1.76;;;;-1;
+    10-P-8031;10;Pièce;-;Visserie;Production;1;Ecrou de rallonge M16;-;-;-;Acier;0;0;0;0.13;6726.42;Brut;-;2;3
+  10-E-4115;10;Assemblage;-;Acier;Chantier;3;SC Charpente;-;-;-;Divers;120;115;0;0.96;37143.14;Thermolaqué;RAL 9007;1;3
+    10-P-2030;10;Pièce;-;Tôlerie;Production;1;Tôle acier 8mm;-;-;-;Acier;120;8;0;0.69;25786.19;Brut;-;2;3
+    10-P-0330;10;Pièce;-;Usinage Acier;Production;1;Tige filetée M16x115;-;-;-;Acier;115;16;0;0.18;6182.65;Brut;-;2;3
+    10-P-8013;10;Pièce;-;Visserie;Chantier;2;Vis Cylindrique M10x50;-;-;-;Inox Brut 2B;0;0;0;;;Brut;-;2;6
+  10-E-4121;10;Assemblage;-;Acier;Chantier;4;Assemblage Manchon;-;-;-;Divers;53;100;53;0.29;25258.99;Peint Antirouille;Zimo Z1 60my;1;4
+    10-P-2001;10;Pièce;-;Tôlerie;Production;1;Tôle acier 3mm;-;-;-;Acier;188.09;53;3;0.21;20095.48;Brut;-;2;4
+      ;;;;;;-;Sheet;;;;;;;;0.21;;;;-1;
+    10-P-0900;10;Pièce;-;Usinage Acier;Production;2;Rond acier 8mm;-;-;-;Acier;100;8;0;0.04;2581.76;Brut;-;2;8
+10-E-4009;10;Assemblage;-;Acier;Chantier;1;Cadre tubulaire;-;-;-;Divers;5453.63;1138.33;184;241.50;16854612.40;IGP 5803 E 71755 A10;-;0;1
+  Esquisse 10-E-4009;;;;;;1;;;;;;;;;;;;;1;1
+  10-P-0050;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x80x6.3;EN 10210;-;-;Acier;5251.13;120;80;93.48;3763288.09;Brut;-;1;1
+  10-P-0051;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x80x6.3;EN 10210;-;-;Acier;5445.75;120;80;96.95;3902864.67;Brut;-;1;1
+  10-P-2111;10;Pièce;-;Tôlerie;Production;1;Tôle acier 8mm;-;-;-;Acier;120;81.34;8;0.60;22501.21;Brut;-;1;1
+  10-P-2116;10;Pièce;-;Tôlerie;Production;1;Tôle acier 8mm;-;-;-;Acier;120;81.34;8;0.59;22701.49;Brut;-;1;1
+  10-P-0160;10;Pièce;-;Usinage Acier;Production;2;Tube carré MSH 60x60x3.2;EN 10210;-;-;Acier;978.33;60;60;5.44;430845.84;Brut;-;1;2
+  10-P-0115;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;978.33;120;60;10.32;655607.52;Brut;-;1;1
+  10-P-0230;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;1134.33;18;12;1.76;788009.45;Brut;-;1;1
+  10-P-0228;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;5195.24;18;12;7.66;2644908.17;Brut;-;1;1
+  10-P-0229;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;5389.87;18;12;7.95;2743949.80;Brut;-;1;1
+  10-P-0202;10;Pièce;-;Usinage Acier;Production;2;Raico 129005;-;-;-;Acier;992.33;18;12;1.43;462697.10;Brut;-;1;2
+  10-P-3000;10;Pièce;-;Achat;Production;6;Cale à verre Raico 167391;-;-;-;Alu;100;49;18;0.05;14127.90;Brut;-;1;6
+  10-E-4120;10;Assemblage;-;Acier;Chantier;2;Assemblage Manchon;-;-;-;Divers;111;100;51;0.42;36993.98;Peint Antirouille;Zimo Z1 60my;1;2
+    10-P-2000;10;Pièce;-;Tôlerie;Production;1;Tôle acier 3mm;-;-;-;Acier;304.09;51;3;0.35;31830.46;Brut;-;2;2
+      ;;;;;;-;Sheet;;;;;;;;0.35;;;;-1;
+    10-P-0900;10;Pièce;-;Usinage Acier;Production;2;Rond acier 8mm;-;-;-;Acier;100;8;0;0.04;2581.76;Brut;-;2;4
+  10-E-4112;10;Assemblage;-;Acier;Chantier;2;Assemblage Manchon;-;-;-;Divers;160;106.40;66.40;2.09;94809.24;Peint Antirouille;Zimo Z1 60my;1;2
+    10-P-2014;10;Pièce;-;Tôlerie;Production;1;Tôle acier 6mm manchon;-;-;-;Acier;247.17;160;6;1.96;88082.82;Brut;-;2;2
+      ;;;;;;-;Sheet;;;;;;;;1.96;;;;-1;
+    10-P-8031;10;Pièce;-;Visserie;Production;1;Ecrou de rallonge M16;-;-;-;Acier;0;0;0;0.13;6726.42;Brut;-;2;2
+  10-E-4115;10;Assemblage;-;Acier;Chantier;2;SC Charpente;-;-;-;Divers;120;115;0;0.96;37143.14;Thermolaqué;RAL 9007;1;2
+    10-P-2030;10;Pièce;-;Tôlerie;Production;1;Tôle acier 8mm;-;-;-;Acier;120;8;0;0.69;25786.19;Brut;-;2;2
+    10-P-0330;10;Pièce;-;Usinage Acier;Production;1;Tige filetée M16x115;-;-;-;Acier;115;16;0;0.18;6182.65;Brut;-;2;2
+    10-P-8013;10;Pièce;-;Visserie;Chantier;2;Vis Cylindrique M10x50;-;-;-;Inox Brut 2B;0;0;0;;;Brut;-;2;4
+  10-E-4121;10;Assemblage;-;Acier;Chantier;4;Assemblage Manchon;-;-;-;Divers;53;100;53;0.29;25258.99;Peint Antirouille;Zimo Z1 60my;1;4
+    10-P-2001;10;Pièce;-;Tôlerie;Production;1;Tôle acier 3mm;-;-;-;Acier;188.09;53;3;0.21;20095.48;Brut;-;2;4
+      ;;;;;;-;Sheet;;;;;;;;0.21;;;;-1;
+    10-P-0900;10;Pièce;-;Usinage Acier;Production;2;Rond acier 8mm;-;-;-;Acier;100;8;0;0.04;2581.76;Brut;-;2;8
+10-E-4010;10;Assemblage;-;Acier;Chantier;1;Cadre tubulaire;-;-;-;Divers;5831.28;1170.29;184;261.64;18199070.33;IGP 5803 E 71755 A10;-;0;1
+  Esquisse 10-E-4010;;;;;;1;;;;;;;;;;;;;1;1
+  10-P-0052;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x80x6.3;EN 10210;-;-;Acier;5823.11;120;80;103.82;4178724.43;Brut;-;1;1
+  10-P-0053;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x80x6.3;EN 10210;-;-;Acier;5823.11;120;80;103.81;4178943.40;Brut;-;1;1
+  10-P-2117;10;Pièce;-;Tôlerie;Production;1;Tôle acier 8mm;-;-;-;Acier;120;80;8;0.58;22358.06;Brut;-;1;1
+  10-P-2112;10;Pièce;-;Tôlerie;Production;1;Tôle acier 8mm;-;-;-;Acier;120;80;8;0.59;22157.79;Brut;-;1;1
+  10-P-0161;10;Pièce;-;Usinage Acier;Production;2;Tube carré MSH 60x60x3.2;EN 10210;-;-;Acier;1010.29;60;60;5.62;444871.67;Brut;-;1;2
+  10-P-0116;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;1010.29;120;60;10.65;676933.06;Brut;-;1;1
+  10-P-0231;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;1166.29;18;12;1.81;810170.56;Brut;-;1;1
+  10-P-0232;10;Pièce;-;Usinage Acier;Production;2;Raico 129005;-;-;-;Acier;5774.11;18;12;8.52;2939484.11;Brut;-;1;2
+  10-P-0233;10;Pièce;-;Usinage Acier;Production;2;Raico 129005;-;-;-;Acier;1024.29;18;12;1.48;477561.19;Brut;-;1;2
+  10-P-3000;10;Pièce;-;Achat;Production;6;Cale à verre Raico 167391;-;-;-;Alu;100;49;18;0.05;14127.90;Brut;-;1;6
+  10-E-4120;10;Assemblage;-;Acier;Chantier;3;Assemblage Manchon;-;-;-;Divers;111;100;51;0.42;36993.98;Peint Antirouille;Zimo Z1 60my;1;3
+    10-P-2000;10;Pièce;-;Tôlerie;Production;1;Tôle acier 3mm;-;-;-;Acier;304.09;51;3;0.35;31830.46;Brut;-;2;3
+      ;;;;;;-;Sheet;;;;;;;;0.35;;;;-1;
+    10-P-0900;10;Pièce;-;Usinage Acier;Production;2;Rond acier 8mm;-;-;-;Acier;100;8;0;0.04;2581.76;Brut;-;2;6
+  10-E-4121;10;Assemblage;-;Acier;Chantier;5;Assemblage Manchon;-;-;-;Divers;53;100;53;0.29;25258.99;Peint Antirouille;Zimo Z1 60my;1;5
+    10-P-2001;10;Pièce;-;Tôlerie;Production;1;Tôle acier 3mm;-;-;-;Acier;188.09;53;3;0.21;20095.48;Brut;-;2;5
+      ;;;;;;-;Sheet;;;;;;;;0.21;;;;-1;
+    10-P-0900;10;Pièce;-;Usinage Acier;Production;2;Rond acier 8mm;-;-;-;Acier;100;8;0;0.04;2581.76;Brut;-;2;10
+  10-E-4112;10;Assemblage;-;Acier;Chantier;2;Assemblage Manchon;-;-;-;Divers;160;106.40;66.40;2.09;94809.24;Peint Antirouille;Zimo Z1 60my;1;2
+    10-P-2014;10;Pièce;-;Tôlerie;Production;1;Tôle acier 6mm manchon;-;-;-;Acier;247.17;160;6;1.96;88082.82;Brut;-;2;2
+      ;;;;;;-;Sheet;;;;;;;;1.96;;;;-1;
+    10-P-8031;10;Pièce;-;Visserie;Production;1;Ecrou de rallonge M16;-;-;-;Acier;0;0;0;0.13;6726.42;Brut;-;2;2
+  10-E-4115;10;Assemblage;-;Acier;Chantier;2;SC Charpente;-;-;-;Divers;120;115;0;0.96;37143.14;Thermolaqué;RAL 9007;1;2
+    10-P-2030;10;Pièce;-;Tôlerie;Production;1;Tôle acier 8mm;-;-;-;Acier;120;8;0;0.69;25786.19;Brut;-;2;2
+    10-P-0330;10;Pièce;-;Usinage Acier;Production;1;Tige filetée M16x115;-;-;-;Acier;115;16;0;0.18;6182.65;Brut;-;2;2
+    10-P-8013;10;Pièce;-;Visserie;Chantier;2;Vis Cylindrique M10x50;-;-;-;Inox Brut 2B;0;0;0;;;Brut;-;2;4
+10-E-4011;10;Assemblage;-;Acier;Chantier;1;Cadre tubulaire;-;-;-;Divers;2728.50;3180.22;184;158.54;14946034.08;IGP 5803 E 71755 A10;-;0;1
+  Esquisse 10-E-4011;;;;;;1;;;;;;;;;;;;;1;1
+  10-P-0017;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;2709.43;120;60;28.58;1812703.08;Brut;-;1;1
+  10-P-0018;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;1645.56;120;60;17.37;1102672.42;Brut;-;1;1
+  10-P-0019;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;2514.80;120;60;26.53;1682823.26;Brut;-;1;1
+  10-P-0020;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;2320.18;120;60;24.48;1552930.09;Brut;-;1;1
+  10-P-2115;10;Pièce;-;Tôlerie;Production;2;Tôle acier 8mm;-;-;-;Acier;120;61.01;8;0.44;17721.50;Brut;-;1;2
+  10-P-2110;10;Pièce;-;Tôlerie;Production;2;Tôle acier 8mm;-;-;-;Acier;120;61.01;8;0.45;17521.22;Brut;-;1;2
+  10-P-0117;10;Pièce;-;Usinage Acier;Production;3;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;980.07;120;60;10.33;656768.68;Brut;-;1;3
+  10-P-0234;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;3165.22;18;12;4.91;2196526.27;Brut;-;1;1
+  10-P-0236;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;2208.51;18;12;3.26;1125016.50;Brut;-;1;1
+  10-P-0237;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;1624.63;18;12;2.40;827891.58;Brut;-;1;1
+  10-P-0238;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;2013.88;18;12;2.97;1025974.86;Brut;-;1;1
+  10-P-0239;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;1819.26;18;12;2.68;926933.22;Brut;-;1;1
+  10-P-3000;10;Pièce;-;Achat;Production;6;Cale à verre Raico 167391;-;-;-;Alu;100;49;18;0.05;14127.90;Brut;-;1;6
+  10-E-4111;10;Assemblage;-;Acier;Chantier;4;Assemblage Manchon;-;-;-;Divers;160;111;51;1.89;86110.84;Peint Antirouille;Zimo Z1 60my;1;4
+    10-P-2013;10;Pièce;-;Tôlerie;Production;1;Tôle acier 6mm manchon;-;-;-;Acier;220.97;160;"RD3@Annotations@10-P-2012.moPart_c";1.76;79384.42;Brut;-;2;4
+      ;;;;;;-;Sheet;;;;;;;;1.76;;;;-1;
+    10-P-8031;10;Pièce;-;Visserie;Production;1;Ecrou de rallonge M16;-;-;-;Acier;0;0;0;0.13;6726.42;Brut;-;2;4
+  10-E-4115;10;Assemblage;-;Acier;Chantier;4;SC Charpente;-;-;-;Divers;120;115;0;0.96;37143.14;Thermolaqué;RAL 9007;1;4
+    10-P-2030;10;Pièce;-;Tôlerie;Production;1;Tôle acier 8mm;-;-;-;Acier;120;8;0;0.69;25786.19;Brut;-;2;4
+    10-P-0330;10;Pièce;-;Usinage Acier;Production;1;Tige filetée M16x115;-;-;-;Acier;115;16;0;0.18;6182.65;Brut;-;2;4
+    10-P-8013;10;Pièce;-;Visserie;Chantier;2;Vis Cylindrique M10x50;-;-;-;Inox Brut 2B;0;0;0;;;Brut;-;2;8
+  10-E-4120;10;Assemblage;-;Acier;Chantier;2;Assemblage Manchon;-;-;-;Divers;111;100;51;0.42;36993.98;Peint Antirouille;Zimo Z1 60my;1;2
+    10-P-2000;10;Pièce;-;Tôlerie;Production;1;Tôle acier 3mm;-;-;-;Acier;304.09;51;3;0.35;31830.46;Brut;-;2;2
+      ;;;;;;-;Sheet;;;;;;;;0.35;;;;-1;
+    10-P-0900;10;Pièce;-;Usinage Acier;Production;2;Rond acier 8mm;-;-;-;Acier;100;8;0;0.04;2581.76;Brut;-;2;4
+10-E-4012;10;Assemblage;-;Acier;Chantier;1;Cadre tubulaire;-;-;-;Divers;1469.99;3180.22;184;105.94;10329652.67;IGP 5803 E 71755 A10;-;0;1
+  Esquisse 10-E-4012;;;;;;1;;;;;;;;;;;;;1;1
+  10-P-0021;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;1450.94;120;60;15.31;972779.25;Brut;-;1;1
+  10-P-0022;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;867.08;120;60;9.16;583099.74;Brut;-;1;1
+  10-P-0023;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;1256.32;120;60;13.26;842899.43;Brut;-;1;1
+  10-P-0024;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;1061.70;120;60;11.21;713006.26;Brut;-;1;1
+  10-P-2115;10;Pièce;-;Tôlerie;Production;2;Tôle acier 8mm;-;-;-;Acier;120;61.01;8;0.44;17721.50;Brut;-;1;2
+  10-P-2110;10;Pièce;-;Tôlerie;Production;2;Tôle acier 8mm;-;-;-;Acier;120;61.01;8;0.45;17521.22;Brut;-;1;2
+  10-P-0117;10;Pièce;-;Usinage Acier;Production;3;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;980.07;120;60;10.33;656768.68;Brut;-;1;3
+  10-P-0240;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;3176.22;18;12;4.92;2204155.30;Brut;-;1;1
+  10-P-0241;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;1430.01;18;12;2.11;728849.94;Brut;-;1;1
+  10-P-0242;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;846.13;18;12;1.25;431725.01;Brut;-;1;1
+  10-P-0243;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;1235.38;18;12;1.82;629808.29;Brut;-;1;1
+  10-P-0244;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;1040.75;18;12;1.53;530766.65;Brut;-;1;1
+  10-P-3000;10;Pièce;-;Achat;Production;6;Cale à verre Raico 167391;-;-;-;Alu;100;49;18;0.05;14127.90;Brut;-;1;6
+  10-E-4111;10;Assemblage;-;Acier;Chantier;4;Assemblage Manchon;-;-;-;Divers;160;111;51;1.89;86110.84;Peint Antirouille;Zimo Z1 60my;1;4
+    10-P-2013;10;Pièce;-;Tôlerie;Production;1;Tôle acier 6mm manchon;-;-;-;Acier;220.97;160;"RD3@Annotations@10-P-2012.moPart_c";1.76;79384.42;Brut;-;2;4
+      ;;;;;;-;Sheet;;;;;;;;1.76;;;;-1;
+    10-P-8031;10;Pièce;-;Visserie;Production;1;Ecrou de rallonge M16;-;-;-;Acier;0;0;0;0.13;6726.42;Brut;-;2;4
+  10-E-4115;10;Assemblage;-;Acier;Chantier;4;SC Charpente;-;-;-;Divers;120;115;0;0.96;37143.14;Thermolaqué;RAL 9007;1;4
+    10-P-2030;10;Pièce;-;Tôlerie;Production;1;Tôle acier 8mm;-;-;-;Acier;120;8;0;0.69;25786.19;Brut;-;2;4
+    10-P-0330;10;Pièce;-;Usinage Acier;Production;1;Tige filetée M16x115;-;-;-;Acier;115;16;0;0.18;6182.65;Brut;-;2;4
+    10-P-8013;10;Pièce;-;Visserie;Chantier;2;Vis Cylindrique M10x50;-;-;-;Inox Brut 2B;0;0;0;;;Brut;-;2;8
+  10-E-4120;10;Assemblage;-;Acier;Chantier;2;Assemblage Manchon;-;-;-;Divers;111;100;51;0.42;36993.98;Peint Antirouille;Zimo Z1 60my;1;2
+    10-P-2000;10;Pièce;-;Tôlerie;Production;1;Tôle acier 3mm;-;-;-;Acier;304.09;51;3;0.35;31830.46;Brut;-;2;2
+      ;;;;;;-;Sheet;;;;;;;;0.35;;;;-1;
+    10-P-0900;10;Pièce;-;Usinage Acier;Production;2;Rond acier 8mm;-;-;-;Acier;100;8;0;0.04;2581.76;Brut;-;2;4
+10-E-4030;10;Assemblage;-;Acier;Chantier;1;Cadre tubulaire;-;-;-;Divers;4745;1193.76;1152.33;179.79;19471118.45;IGP 5803 E 71755 A10;-;0;1
+  Esquisse 10-E-4030;;;;;;1;;;;;;;;;;;;;1;1
+  10-P-0004;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;4745;120;60;50.01;3168813.88;Brut;-;1;1
+  10-P-0006;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;4745;120;60;50.01;3168813.88;Brut;-;1;1
+  10-P-0090;10;Pièce;-;Usinage Acier;Production;2;Tube rectangulaire MSH 60x60x3;EN 10210;-;-;Acier;310;60;60;1.61;137617.42;Brut;-;1;2
+  10-P-0111;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;1069.76;120;60;10.65;677137.78;Brut;-;1;1
+  10-P-0112;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;1028.33;120;60;10.21;649486.41;Brut;-;1;1
+  10-P-0156;10;Pièce;-;Usinage Acier;Production;2;Tube carré MSH 60x60x3.2;EN 10210;-;-;Acier;957.76;60;60;5.78;458102.69;Brut;-;1;2
+  10-P-0157;10;Pièce;-;Usinage Acier;Production;2;Tube carré MSH 60x60x3.2;EN 10210;-;-;Acier;916.33;60;60;5.55;439916.35;Brut;-;1;2
+  10-P-0217;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;1127.76;18;12;1.75;783453.94;Brut;-;1;1
+  10-P-0218;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;1086.33;18;12;1.68;754719.15;Brut;-;1;1
+  10-P-0207;10;Pièce;-;Usinage Acier;Production;2;Raico 129005;-;-;-;Acier;4369;18;12;6.44;2224449.64;Brut;-;1;2
+  10-P-0219;10;Pièce;-;Usinage Acier;Production;2;Raico 129005;-;-;-;Acier;1066.76;18;12;1.54;497321.35;Brut;-;1;2
+  10-P-0220;10;Pièce;-;Usinage Acier;Production;2;Raico 129005;-;-;-;Acier;1025.33;18;12;1.48;478048.12;Brut;-;1;2
+  10-P-3000;10;Pièce;-;Achat;Production;12;Cale à verre Raico 167391;-;-;-;Alu;100;49;18;0.05;14127.90;Brut;-;1;12
+  10-P-2040;10;Pièce;-;Tôlerie;Production;2;Tôle acier 6mm;-;-;-;Acier;80;80;6;0.24;12044.26;Brut;-;1;2
+  10-fixation tube et vis-00;;;;;;2;;;;;;;;;;;;;1;2
+    10-P-0320;10;Pièce;-;Usinage Acier;Chantier;1;Tube carré MSH 60x60x4;EN 10210;-;-;Acier;170;60;60;0.75;50520.28;Thermolaqué;RAL 9007;2;2
+    10-P-2045;10;Pièce;-;Tôlerie;Chantier;1;Tôle acier 8mm;-;-;-;Acier;220;83.38;8;1.16;42559.97;Thermolaqué;RAL 9007;2;2
+    10-P-8001;10;Pièce;-;Visserie;Chantier;2;Hilti HSC-I M10x60;-;-;-;Acier;0;0;0;0;0;Brut;-;2;4
+    10-P-8021;10;Pièce;-;Visserie;Chantier;2;Grande rondelle M8;DIN 9021;-;-;Inox Brut 2B;-;-;-;-;-;Brut;-;2;4
+    10-P-8014;10;Pièce;-;Visserie;Chantier;1;Vis Hexa M10x80;DIN 933;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;2;2
+    10-P-8032;10;Visserie;-;Visserie;Chantier;1;Ecrou M10;DIN 934;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;2;2
+  10-E-4120;10;Assemblage;-;Acier;Chantier;2;Assemblage Manchon;-;-;-;Divers;111;100;51;0.42;36993.98;Peint Antirouille;Zimo Z1 60my;1;2
+    10-P-2000;10;Pièce;-;Tôlerie;Production;1;Tôle acier 3mm;-;-;-;Acier;304.09;51;3;0.35;31830.46;Brut;-;2;2
+      ;;;;;;-;Sheet;;;;;;;;0.35;;;;-1;
+    10-P-0900;10;Pièce;-;Usinage Acier;Production;2;Rond acier 8mm;-;-;-;Acier;100;8;0;0.04;2581.76;Brut;-;2;4
+  10-E-4121;10;Assemblage;-;Acier;Chantier;4;Assemblage Manchon;-;-;-;Divers;53;100;53;0.29;25258.99;Peint Antirouille;Zimo Z1 60my;1;4
+    10-P-2001;10;Pièce;-;Tôlerie;Production;1;Tôle acier 3mm;-;-;-;Acier;188.09;53;3;0.21;20095.48;Brut;-;2;4
+      ;;;;;;-;Sheet;;;;;;;;0.21;;;;-1;
+    10-P-0900;10;Pièce;-;Usinage Acier;Production;2;Rond acier 8mm;-;-;-;Acier;100;8;0;0.04;2581.76;Brut;-;2;8
+  10-P-2070;10;Pièce;-;Tôlerie;Chantier;1;Tôle alu 2mm;-;-;-;Alu;1807.20;172.98;2;3.25;1212133.42;IGP 5803 E 71755 A10;-;1;1
+    ;;;;;;-;Sheet;;;;;;;;3.25;;;;-1;
+  10-P-8007;10;;-;Visserie;Chantier;12;Vis à tôle - Tête cylindrique bombée - St 00x00;-;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;1;12
+10-E-4031;10;Assemblage;-;Acier;Chantier;1;Cadre tubulaire;-;-;-;Divers;4099.43;1100.40;1152.33;138.76;14094030.85;IGP 5803 E 71755 A10;-;0;1
+  Esquisse 10-E-4031;;;;;;1;;;;;;;;;;;;;1;1
+  10-P-0009;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;4099.43;120;60;43.19;2737236.86;Brut;-;1;1
+  10-P-0008;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;4099.43;120;60;43.19;2737236.86;Brut;-;1;1
+  10-P-0156;10;Pièce;-;Usinage Acier;Production;2;Tube carré MSH 60x60x3.2;EN 10210;-;-;Acier;957.76;60;60;5.78;458102.69;Brut;-;1;2
+  10-P-0157;10;Pièce;-;Usinage Acier;Production;2;Tube carré MSH 60x60x3.2;EN 10210;-;-;Acier;916.33;60;60;5.55;439916.35;Brut;-;1;2
+  10-P-0216;10;Pièce;-;Usinage Acier;Production;2;Raico 129005;-;-;-;Acier;4093.44;18;12;6.04;2084222.28;Brut;-;1;2
+  10-P-0219;10;Pièce;-;Usinage Acier;Production;2;Raico 129005;-;-;-;Acier;1066.76;18;12;1.54;497321.35;Brut;-;1;2
+  10-P-0220;10;Pièce;-;Usinage Acier;Production;2;Raico 129005;-;-;-;Acier;1025.33;18;12;1.48;478048.12;Brut;-;1;2
+  10-P-3000;10;Pièce;-;Achat;Production;8;Cale à verre Raico 167391;-;-;-;Alu;100;49;18;0.05;14127.90;Brut;-;1;8
+  10-P-2040;10;Pièce;-;Tôlerie;Production;2;Tôle acier 6mm;-;-;-;Acier;80;80;6;0.24;12044.26;Brut;-;1;2
+  10-fixation tube et vis-01;;;;;;2;;;;;;;;;;;;;1;2
+    10-P-0321;10;Pièce;-;Usinage Acier;Chantier;1;Tube carré MSH 60x60x4;EN 10210;-;-;Acier;170;60;60;1.04;68954.81;Thermolaqué;RAL 9007;2;2
+    10-P-8021;10;Pièce;-;Visserie;Chantier;2;Grande rondelle M8;DIN 9021;-;-;Inox Brut 2B;-;-;-;-;-;Brut;-;2;4
+    10-P-8014;10;Pièce;-;Visserie;Chantier;1;Vis Hexa M10x80;DIN 933;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;2;2
+    10-P-8032;10;Visserie;-;Visserie;Chantier;1;Ecrou M10;DIN 934;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;2;2
+  10-E-4110;10;Assemblage;-;Acier;Chantier;2;Assemblage Manchon;-;-;-;Divers;230;111;51;2.66;119665.75;Peint Antirouille;Zimo Z1 60my;1;2
+    10-P-2012;10;Pièce;-;Tôlerie;Production;1;Tôle acier 6mm manchon;-;-;-;Acier;230;220.97;"RD3@Annotations@10-P-2012.moPart_c";2.54;112939.33;Brut;-;2;2
+      ;;;;;;-;Sheet;;;;;;;;2.54;;;;-1;
+    10-P-8031;10;Pièce;-;Visserie;Production;1;Ecrou de rallonge M16;-;-;-;Acier;0;0;0;0.13;6726.42;Brut;-;2;2
+  10-E-4115;10;Assemblage;-;Acier;Chantier;2;SC Charpente;-;-;-;Divers;120;115;0;0.96;37143.14;Thermolaqué;RAL 9007;1;2
+    10-P-2030;10;Pièce;-;Tôlerie;Production;1;Tôle acier 8mm;-;-;-;Acier;120;8;0;0.69;25786.19;Brut;-;2;2
+    10-P-0330;10;Pièce;-;Usinage Acier;Production;1;Tige filetée M16x115;-;-;-;Acier;115;16;0;0.18;6182.65;Brut;-;2;2
+    10-P-8013;10;Pièce;-;Visserie;Chantier;2;Vis Cylindrique M10x50;-;-;-;Inox Brut 2B;0;0;0;;;Brut;-;2;4
+  10-E-4121;10;Assemblage;-;Acier;Chantier;4;Assemblage Manchon;-;-;-;Divers;53;100;53;0.29;25258.99;Peint Antirouille;Zimo Z1 60my;1;4
+    10-P-2001;10;Pièce;-;Tôlerie;Production;1;Tôle acier 3mm;-;-;-;Acier;188.09;53;3;0.21;20095.48;Brut;-;2;4
+      ;;;;;;-;Sheet;;;;;;;;0.21;;;;-1;
+    10-P-0900;10;Pièce;-;Usinage Acier;Production;2;Rond acier 8mm;-;-;-;Acier;100;8;0;0.04;2581.76;Brut;-;2;8
+10-E-4032;10;Assemblage;-;Acier;Chantier;1;Cadre tubulaire;-;-;-;Divers;3257.17;1100.40;1152.33;103.74;10463342.83;IGP 5803 E 71755 A10;-;0;1
+  Esquisse 10-E-4032;;;;;;1;;;;;;;;;;;;;1;1
+  10-P-0025;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;3257.17;120;60;34.34;2176486.38;Brut;-;1;1
+  10-P-0026;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;3625.09;120;60;38.13;2416991.03;Brut;-;1;1
+  10-P-2110;10;Pièce;-;Tôlerie;Production;1;Tôle acier 8mm;-;-;-;Acier;120;61.01;8;0.45;17521.22;Brut;-;1;1
+  10-P-2113;10;Pièce;-;Tôlerie;Production;1;Tôle acier 8mm;-;-;-;Acier;120;60;8;0.44;17263.65;Brut;-;1;1
+  10-P-0156;10;Pièce;-;Usinage Acier;Production;1;Tube carré MSH 60x60x3.2;EN 10210;-;-;Acier;957.76;60;60;5.78;458102.69;Brut;-;1;1
+  10-P-0157;10;Pièce;-;Usinage Acier;Production;1;Tube carré MSH 60x60x3.2;EN 10210;-;-;Acier;916.33;60;60;5.55;439916.35;Brut;-;1;1
+  10-P-0245;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;3342.17;18;12;4.93;1701915.47;Brut;-;1;1
+  10-P-0246;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;3713.04;18;12;5.48;1890645.72;Brut;-;1;1
+  10-P-0219;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;1066.76;18;12;1.54;497321.35;Brut;-;1;1
+  10-P-0220;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;1025.33;18;12;1.48;478048.12;Brut;-;1;1
+  10-P-3000;10;Pièce;-;Achat;Production;4;Cale à verre Raico 167391;-;-;-;Alu;100;49;18;0.05;14127.90;Brut;-;1;4
+  10-P-2040;10;Pièce;-;Tôlerie;Production;1;Tôle acier 6mm;-;-;-;Acier;80;80;6;0.24;12044.26;Brut;-;1;1
+  10-E-4121;10;Assemblage;-;Acier;Chantier;4;Assemblage Manchon;-;-;-;Divers;53;100;53;0.29;25258.99;Peint Antirouille;Zimo Z1 60my;1;4
+    10-P-2001;10;Pièce;-;Tôlerie;Production;1;Tôle acier 3mm;-;-;-;Acier;188.09;53;3;0.21;20095.48;Brut;-;2;4
+      ;;;;;;-;Sheet;;;;;;;;0.21;;;;-1;
+    10-P-0900;10;Pièce;-;Usinage Acier;Production;2;Rond acier 8mm;-;-;-;Acier;100;8;0;0.04;2581.76;Brut;-;2;8
+  10-fixation tube et vis-01;;;;;;1;;;;;;;;;;;;;1;1
+    10-P-0321;10;Pièce;-;Usinage Acier;Chantier;1;Tube carré MSH 60x60x4;EN 10210;-;-;Acier;170;60;60;1.04;68954.81;Thermolaqué;RAL 9007;2;1
+    10-P-8021;10;Pièce;-;Visserie;Chantier;2;Grande rondelle M8;DIN 9021;-;-;Inox Brut 2B;-;-;-;-;-;Brut;-;2;2
+    10-P-8014;10;Pièce;-;Visserie;Chantier;1;Vis Hexa M10x80;DIN 933;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;2;1
+    10-P-8032;10;Visserie;-;Visserie;Chantier;1;Ecrou M10;DIN 934;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;2;1
+  10-E-4111;10;Assemblage;-;Acier;Chantier;1;Assemblage Manchon;-;-;-;Divers;160;111;51;1.89;86110.84;Peint Antirouille;Zimo Z1 60my;1;1
+    10-P-2013;10;Pièce;-;Tôlerie;Production;1;Tôle acier 6mm manchon;-;-;-;Acier;220.97;160;"RD3@Annotations@10-P-2012.moPart_c";1.76;79384.42;Brut;-;2;1
+      ;;;;;;-;Sheet;;;;;;;;1.76;;;;-1;
+    10-P-8031;10;Pièce;-;Visserie;Production;1;Ecrou de rallonge M16;-;-;-;Acier;0;0;0;0.13;6726.42;Brut;-;2;1
+  10-E-4115;10;Assemblage;-;Acier;Chantier;1;SC Charpente;-;-;-;Divers;120;115;0;0.96;37143.14;Thermolaqué;RAL 9007;1;1
+    10-P-2030;10;Pièce;-;Tôlerie;Production;1;Tôle acier 8mm;-;-;-;Acier;120;8;0;0.69;25786.19;Brut;-;2;1
+    10-P-0330;10;Pièce;-;Usinage Acier;Production;1;Tige filetée M16x115;-;-;-;Acier;115;16;0;0.18;6182.65;Brut;-;2;1
+    10-P-8013;10;Pièce;-;Visserie;Chantier;2;Vis Cylindrique M10x50;-;-;-;Inox Brut 2B;0;0;0;;;Brut;-;2;2
+10-E-4033;10;Assemblage;-;Acier;Chantier;1;Cadre tubulaire;-;-;-;Divers;5831.11;1100.40;1152.33;279.61;20612866.32;IGP 5803 E 71755 A10;-;0;1
+  Esquisse 10-E-4033;;;;;;1;;;;;;;;;;;;;1;1
+  10-P-0054;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x80x6.3;EN 10210;-;-;Acier;5640.38;120;80;100.43;4042441.25;Brut;-;1;1
+  10-P-0059;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x80x6.3;EN 10210;-;-;Acier;5823.11;120;80;103.82;4178724.13;Brut;-;1;1
+  10-P-2112;10;Pièce;-;Tôlerie;Production;1;Tôle acier 8mm;-;-;-;Acier;120;80;8;0.59;22157.79;Brut;-;1;1
+  10-P-2111;10;Pièce;-;Tôlerie;Production;1;Tôle acier 8mm;-;-;-;Acier;120;81.34;8;0.60;22501.21;Brut;-;1;1
+  10-P-0091;10;Pièce;-;Usinage Acier;Production;2;Tube rectangulaire MSH 60x60x3;EN 10210;-;-;Acier;82;60;60;0.42;37172.32;Brut;-;1;2
+  10-P-0163;10;Pièce;-;Usinage Acier;Production;2;Tube carré MSH 60x60x3.2;EN 10210;-;-;Acier;858.60;60;60;5.32;422088.08;Brut;-;1;2
+  10-P-0164;10;Pièce;-;Usinage Acier;Production;2;Tube carré MSH 60x60x3.2;EN 10210;-;-;Acier;678.08;60;60;4.32;342850.59;Brut;-;1;2
+  10-P-0118;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;993.65;120;60;9.72;618299.99;Brut;-;1;1
+  10-P-0119;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;813.13;120;60;7.81;497823.59;Brut;-;1;1
+  10-P-0247;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;5584.49;18;12;8.24;2842991.44;Brut;-;1;1
+  10-P-0232;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;5774.11;18;12;8.52;2939484.11;Brut;-;1;1
+  10-P-0248;10;Pièce;-;Usinage Acier;Production;2;Raico 129005;-;-;-;Acier;1000.65;18;12;1.44;466564.11;Brut;-;1;2
+  10-P-0249;10;Pièce;-;Usinage Acier;Production;2;Raico 129005;-;-;-;Acier;820.13;18;12;1.18;382591.04;Brut;-;1;2
+  10-P-0250;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;1071.65;18;12;1.66;744532.93;Brut;-;1;1
+  10-P-0251;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;891.13;18;12;1.38;619336.08;Brut;-;1;1
+  10-P-3000;10;Pièce;-;Achat;Production;12;Cale à verre Raico 167391;-;-;-;Alu;100;49;18;0.05;14127.90;Brut;-;1;12
+  10-P-2041;10;Pièce;-;Tôlerie;Production;2;Tôle acier 6mm;-;-;-;Acier;80;80;6;0.23;11384.42;Brut;-;1;2
+  10-E-4121;10;Assemblage;-;Acier;Chantier;4;Assemblage Manchon;-;-;-;Divers;53;100;53;0.29;25258.99;Peint Antirouille;Zimo Z1 60my;1;4
+    10-P-2001;10;Pièce;-;Tôlerie;Production;1;Tôle acier 3mm;-;-;-;Acier;188.09;53;3;0.21;20095.48;Brut;-;2;4
+      ;;;;;;-;Sheet;;;;;;;;0.21;;;;-1;
+    10-P-0900;10;Pièce;-;Usinage Acier;Production;2;Rond acier 8mm;-;-;-;Acier;100;8;0;0.04;2581.76;Brut;-;2;8
+  10-E-4120;10;Assemblage;-;Acier;Chantier;2;Assemblage Manchon;-;-;-;Divers;111;100;51;0.42;36993.98;Peint Antirouille;Zimo Z1 60my;1;2
+    10-P-2000;10;Pièce;-;Tôlerie;Production;1;Tôle acier 3mm;-;-;-;Acier;304.09;51;3;0.35;31830.46;Brut;-;2;2
+      ;;;;;;-;Sheet;;;;;;;;0.35;;;;-1;
+    10-P-0900;10;Pièce;-;Usinage Acier;Production;2;Rond acier 8mm;-;-;-;Acier;100;8;0;0.04;2581.76;Brut;-;2;4
+  10-fixation tube et vis-02;;;;;;2;;;;;;;;;;;;;1;2
+    10-P-0322;10;Pièce;-;Usinage Acier;Chantier;1;Tube carré MSH 60x60x4;EN 10210;-;-;Acier;170;60;60;1.03;68074.34;Thermolaqué;RAL 9007;2;2
+    10-P-8021;10;Pièce;-;Visserie;Chantier;2;Grande rondelle M8;DIN 9021;-;-;Inox Brut 2B;-;-;-;-;-;Brut;-;2;4
+    10-P-8014;10;Pièce;-;Visserie;Chantier;1;Vis Hexa M10x80;DIN 933;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;2;2
+    10-P-8032;10;Visserie;-;Visserie;Chantier;1;Ecrou M10;DIN 934;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;2;2
+  10-E-4112;10;Assemblage;-;Acier;Chantier;2;Assemblage Manchon;-;-;-;Divers;160;106.40;66.40;2.09;94809.24;Peint Antirouille;Zimo Z1 60my;1;2
+    10-P-2014;10;Pièce;-;Tôlerie;Production;1;Tôle acier 6mm manchon;-;-;-;Acier;247.17;160;6;1.96;88082.82;Brut;-;2;2
+      ;;;;;;-;Sheet;;;;;;;;1.96;;;;-1;
+    10-P-8031;10;Pièce;-;Visserie;Production;1;Ecrou de rallonge M16;-;-;-;Acier;0;0;0;0.13;6726.42;Brut;-;2;2
+  10-E-4115;10;Assemblage;-;Acier;Chantier;2;SC Charpente;-;-;-;Divers;120;115;0;0.96;37143.14;Thermolaqué;RAL 9007;1;2
+    10-P-2030;10;Pièce;-;Tôlerie;Production;1;Tôle acier 8mm;-;-;-;Acier;120;8;0;0.69;25786.19;Brut;-;2;2
+    10-P-0330;10;Pièce;-;Usinage Acier;Production;1;Tige filetée M16x115;-;-;-;Acier;115;16;0;0.18;6182.65;Brut;-;2;2
+    10-P-8013;10;Pièce;-;Visserie;Chantier;2;Vis Cylindrique M10x50;-;-;-;Inox Brut 2B;0;0;0;;;Brut;-;2;4
+10-E-4034;10;Assemblage;-;Acier;Chantier;1;Cadre tubulaire;-;-;-;Divers;5831.11;968.29;414;313.91;23225178.12;IGP 5803 E 71755 A10;-;0;1
+  Esquisse 10-E-4034;;;;;;1;;;;;;;;;;;;;1;1
+  10-P-2110;10;Pièce;-;Tôlerie;Production;1;Tôle acier 8mm;-;-;-;Acier;120;61.01;8;0.45;17521.22;Brut;-;1;1
+  10-P-0056;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x80x6.3;EN 10210;-;-;Acier;5823.11;120;80;103.81;4178943.40;Brut;-;1;1
+  10-P-0055;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x80x6.3;EN 10210;-;-;Acier;5823.11;120;80;103.84;4178395.98;Brut;-;1;1
+  10-P-0027;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;2839.63;120;60;29.96;1899602.00;Brut;-;1;1
+  10-P-2117;10;Pièce;-;Tôlerie;Production;1;Tôle acier 8mm;-;-;-;Acier;120;80;8;0.58;22358.06;Brut;-;1;1
+  10-P-2112;10;Pièce;-;Tôlerie;Production;1;Tôle acier 8mm;-;-;-;Acier;120;80;8;0.59;22157.79;Brut;-;1;1
+  10-P-0165;10;Pièce;-;Usinage Acier;Production;3;Tube carré MSH 60x60x3.2;EN 10210;-;-;Acier;808.29;60;60;4.49;356204.04;Brut;-;1;3
+  10-P-0120;10;Pièce;-;Usinage Acier;Production;2;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;808.29;120;60;8.52;542118.62;Brut;-;1;2
+  10-P-0121;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;280;120;60;2.32;150050.09;Brut;-;1;1
+  10-P-0122;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;290;120;60;2.43;156724.07;Brut;-;1;1
+  10-P-0253;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;943.29;18;12;1.46;655509.38;Brut;-;1;1
+  10-P-0232;10;Pièce;-;Usinage Acier;Production;2;Raico 129005;-;-;-;Acier;5774.11;18;12;8.52;2939484.11;Brut;-;1;2
+  10-P-0252;10;Pièce;-;Usinage Acier;Production;4;Raico 129005;-;-;-;Acier;822.29;18;12;1.19;383594.39;Brut;-;1;4
+  10-P-0254;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;2338.72;18;12;3.45;1191275.66;Brut;-;1;1
+  10-P-0255;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;287;18;12;0.44;200343.21;Brut;-;1;1
+  10-P-0256;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;348;18;12;0.54;242649.63;Brut;-;1;1
+  10-P-3000;10;Pièce;-;Achat;Production;12;Cale à verre Raico 167391;-;-;-;Alu;100;49;18;0.05;14127.90;Brut;-;1;12
+  10-E-4120;10;Assemblage;-;Acier;Chantier;3;Assemblage Manchon;-;-;-;Divers;111;100;51;0.42;36993.98;Peint Antirouille;Zimo Z1 60my;1;3
+    10-P-2000;10;Pièce;-;Tôlerie;Production;1;Tôle acier 3mm;-;-;-;Acier;304.09;51;3;0.35;31830.46;Brut;-;2;3
+      ;;;;;;-;Sheet;;;;;;;;0.35;;;;-1;
+    10-P-0900;10;Pièce;-;Usinage Acier;Production;2;Rond acier 8mm;-;-;-;Acier;100;8;0;0.04;2581.76;Brut;-;2;6
+  10-E-4115;10;Assemblage;-;Acier;Chantier;3;SC Charpente;-;-;-;Divers;120;115;0;0.96;37143.14;Thermolaqué;RAL 9007;1;3
+    10-P-2030;10;Pièce;-;Tôlerie;Production;1;Tôle acier 8mm;-;-;-;Acier;120;8;0;0.69;25786.19;Brut;-;2;3
+    10-P-0330;10;Pièce;-;Usinage Acier;Production;1;Tige filetée M16x115;-;-;-;Acier;115;16;0;0.18;6182.65;Brut;-;2;3
+    10-P-8013;10;Pièce;-;Visserie;Chantier;2;Vis Cylindrique M10x50;-;-;-;Inox Brut 2B;0;0;0;;;Brut;-;2;6
+  10-E-4111;10;Assemblage;-;Acier;Chantier;1;Assemblage Manchon;-;-;-;Divers;160;111;51;1.89;86110.84;Peint Antirouille;Zimo Z1 60my;1;1
+    10-P-2013;10;Pièce;-;Tôlerie;Production;1;Tôle acier 6mm manchon;-;-;-;Acier;220.97;160;"RD3@Annotations@10-P-2012.moPart_c";1.76;79384.42;Brut;-;2;1
+      ;;;;;;-;Sheet;;;;;;;;1.76;;;;-1;
+    10-P-8031;10;Pièce;-;Visserie;Production;1;Ecrou de rallonge M16;-;-;-;Acier;0;0;0;0.13;6726.42;Brut;-;2;1
+  10-E-4121;10;Assemblage;-;Acier;Chantier;3;Assemblage Manchon;-;-;-;Divers;53;100;53;0.29;25258.99;Peint Antirouille;Zimo Z1 60my;1;3
+    10-P-2001;10;Pièce;-;Tôlerie;Production;1;Tôle acier 3mm;-;-;-;Acier;188.09;53;3;0.21;20095.48;Brut;-;2;3
+      ;;;;;;-;Sheet;;;;;;;;0.21;;;;-1;
+    10-P-0900;10;Pièce;-;Usinage Acier;Production;2;Rond acier 8mm;-;-;-;Acier;100;8;0;0.04;2581.76;Brut;-;2;6
+  10-E-4112;10;Assemblage;-;Acier;Chantier;2;Assemblage Manchon;-;-;-;Divers;160;106.40;66.40;2.09;94809.24;Peint Antirouille;Zimo Z1 60my;1;2
+    10-P-2014;10;Pièce;-;Tôlerie;Production;1;Tôle acier 6mm manchon;-;-;-;Acier;247.17;160;6;1.96;88082.82;Brut;-;2;2
+      ;;;;;;-;Sheet;;;;;;;;1.96;;;;-1;
+    10-P-8031;10;Pièce;-;Visserie;Production;1;Ecrou de rallonge M16;-;-;-;Acier;0;0;0;0.13;6726.42;Brut;-;2;2
+10-E-4035;10;Assemblage;-;Acier;Chantier;1;Cadre tubulaire;-;-;-;Divers;3617.32;1361.24;616.26;104.03;10401483.22;IGP 5803 E 71755 A10;-;0;1
+  Esquisse 10-E-4035;;;;;;1;;;;;;;;;;;;;1;1
+  10-P-0030;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;656.75;120;60;6.94;442708.81;Brut;-;1;1
+  10-P-2110;10;Pièce;-;Tôlerie;Production;1;Tôle acier 8mm;-;-;-;Acier;120;61.01;8;0.45;17521.22;Brut;-;1;1
+  10-P-0028;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;3257.17;120;60;34.35;2176499.73;Brut;-;1;1
+  10-P-0029;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;3257.17;120;60;34.34;2176486.38;Brut;-;1;1
+  10-P-2113;10;Pièce;-;Tôlerie;Production;1;Tôle acier 8mm;-;-;-;Acier;120;60;8;0.44;17263.65;Brut;-;1;1
+  10-P-2118;10;Pièce;-;Tôlerie;Production;1;Tôle acier 8mm;-;-;-;Acier;120;60;8;0.44;17463.93;Brut;-;1;1
+  10-P-0123;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;290;120;60;2.53;163403.97;Brut;-;1;1
+  10-P-0124;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;389.50;120;60;3.58;229810.09;Brut;-;1;1
+  10-P-0155;10;Pièce;-;Usinage Acier;Production;1;Tube carré MSH 60x60x3.2;EN 10210;-;-;Acier;750;60;60;4.17;330619.23;Brut;-;1;1
+  10-P-0260;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;386.50;18;12;0.60;269351.22;Brut;-;1;1
+  10-P-0261;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;348;18;12;0.54;242649.63;Brut;-;1;1
+  10-P-0259;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;635.77;18;12;0.94;324678.98;Brut;-;1;1
+  10-P-0257;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;3342.17;18;12;4.93;1701915.47;Brut;-;1;1
+  10-P-0258;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;3342.17;18;12;4.93;1701915.47;Brut;-;1;1
+  10-P-0215;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;744;18;12;1.07;347176.86;Brut;-;1;1
+  10-P-3000;10;Pièce;-;Achat;Production;4;Cale à verre Raico 167391;-;-;-;Alu;100;49;18;0.05;14127.90;Brut;-;1;4
+  10-E-4120;10;Assemblage;-;Acier;Chantier;1;Assemblage Manchon;-;-;-;Divers;111;100;51;0.42;36993.98;Peint Antirouille;Zimo Z1 60my;1;1
+    10-P-2000;10;Pièce;-;Tôlerie;Production;1;Tôle acier 3mm;-;-;-;Acier;304.09;51;3;0.35;31830.46;Brut;-;2;1
+      ;;;;;;-;Sheet;;;;;;;;0.35;;;;-1;
+    10-P-0900;10;Pièce;-;Usinage Acier;Production;2;Rond acier 8mm;-;-;-;Acier;100;8;0;0.04;2581.76;Brut;-;2;2
+  10-E-4115;10;Assemblage;-;Acier;Chantier;1;SC Charpente;-;-;-;Divers;120;115;0;0.96;37143.14;Thermolaqué;RAL 9007;1;1
+    10-P-2030;10;Pièce;-;Tôlerie;Production;1;Tôle acier 8mm;-;-;-;Acier;120;8;0;0.69;25786.19;Brut;-;2;1
+    10-P-0330;10;Pièce;-;Usinage Acier;Production;1;Tige filetée M16x115;-;-;-;Acier;115;16;0;0.18;6182.65;Brut;-;2;1
+    10-P-8013;10;Pièce;-;Visserie;Chantier;2;Vis Cylindrique M10x50;-;-;-;Inox Brut 2B;0;0;0;;;Brut;-;2;2
+  10-E-4111;10;Assemblage;-;Acier;Chantier;1;Assemblage Manchon;-;-;-;Divers;160;111;51;1.89;86110.84;Peint Antirouille;Zimo Z1 60my;1;1
+    10-P-2013;10;Pièce;-;Tôlerie;Production;1;Tôle acier 6mm manchon;-;-;-;Acier;220.97;160;"RD3@Annotations@10-P-2012.moPart_c";1.76;79384.42;Brut;-;2;1
+      ;;;;;;-;Sheet;;;;;;;;1.76;;;;-1;
+    10-P-8031;10;Pièce;-;Visserie;Production;1;Ecrou de rallonge M16;-;-;-;Acier;0;0;0;0.13;6726.42;Brut;-;2;1
+  10-E-4121;10;Assemblage;-;Acier;Chantier;1;Assemblage Manchon;-;-;-;Divers;53;100;53;0.29;25258.99;Peint Antirouille;Zimo Z1 60my;1;1
+    10-P-2001;10;Pièce;-;Tôlerie;Production;1;Tôle acier 3mm;-;-;-;Acier;188.09;53;3;0.21;20095.48;Brut;-;2;1
+      ;;;;;;-;Sheet;;;;;;;;0.21;;;;-1;
+    10-P-0900;10;Pièce;-;Usinage Acier;Production;2;Rond acier 8mm;-;-;-;Acier;100;8;0;0.04;2581.76;Brut;-;2;2
+10-E-4233;10;Assemblage;-;Acier;Chantier;1;Assemblage Traverse;-;-;-;Divers;908.33;124;60;6.31;798231.92;IGP 5803 E 71755 A10;-;0;1
+  Esquisse 10-E-4233;;;;;;1;;;;;;;;;;;;;1;1
+  10-P-0185;10;Pièce;-;Usinage Acier;Production;1;Tube carré MSH 60x60x3.2;EN 10210;-;-;Acier;908.33;60;60;5.04;399756.64;Brut;-;1;1
+  10-P-0312;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;788.33;18;12;1.14;367799.94;Brut;-;1;1
+  10-P-3000;10;Pièce;-;Achat;Production;2;Cale à verre Raico 167391;-;-;-;Alu;100;49;18;0.05;14127.90;Brut;-;1;2
+  10-P-8011;10;Pièce;-;Visserie;Chantier;4;Vis Cylindrique M6x12;-;-;-;Inox Brut 2B;0;0;0;;;Brut;-;1;4
+10-E-4232;10;Assemblage;-;Acier;Chantier;1;Assemblage Traverse;-;-;-;Divers;998.33;184;190;11.91;1109043.16;IGP 5803 E 71755 A10;-;0;1
+  Esquisse 10-E-4239;;;;;;1;;;;;;;;;;;;;1;1
+  10-P-0125;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;998.33;120;60;10.51;668701.48;Brut;-;1;1
+  10-P-0311;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;878.33;18;12;1.27;409666.34;Brut;-;1;1
+  10-P-3000;10;Pièce;-;Achat;Production;2;Cale à verre Raico 167391;-;-;-;Alu;100;49;18;0.05;14127.90;Brut;-;1;2
+  10-P-8011;10;Pièce;-;Visserie;Chantier;4;Vis Cylindrique M6x12;-;-;-;Inox Brut 2B;0;0;0;;;Brut;-;1;4
+10-E-4200;10;Assemblage;-;Acier;Chantier;11;Assemblage Traverse;-;-;-;Divers;998.33;124;60;6.94;879603.70;IGP 5803 E 71755 A10;-;0;11
+  Esquisse 10-E-4200;;;;;;1;;;;;;;;;;;;;1;11
+  10-P-0152;10;Pièce;-;Usinage Acier;Production;1;Tube carré MSH 60x60x3.2;EN 10210;-;-;Acier;998.33;60;60;5.54;439262.02;Brut;-;1;11
+  10-P-0204;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;878.33;18;12;1.27;409666.34;Brut;-;1;11
+  10-P-3000;10;Pièce;-;Achat;Production;2;Cale à verre Raico 167391;-;-;-;Alu;100;49;18;0.05;14127.90;Brut;-;1;22
+  10-P-8011;10;Pièce;-;Visserie;Chantier;4;Vis Cylindrique M6x12;-;-;-;Inox Brut 2B;0;0;0;;;Brut;-;1;44
+10-E-4201;10;Assemblage;-;Acier;Chantier;5;Assemblage Traverse;-;-;-;Divers;1049.43;124;60;7.30;925800.25;IGP 5803 E 71755 A10;-;0;5
+  Esquisse 10-E-4201;;;;;;1;;;;;;;;;;;;;1;5
+  10-P-0153;10;Pièce;-;Usinage Acier;Production;1;Tube carré MSH 60x60x3.2;EN 10210;-;-;Acier;1049.43;60;60;5.83;461690.09;Brut;-;1;5
+  10-P-0205;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;929.43;18;12;1.34;433434.81;Brut;-;1;5
+  10-P-3000;10;Pièce;-;Achat;Production;2;Cale à verre Raico 167391;-;-;-;Alu;100;49;18;0.05;14127.90;Brut;-;1;10
+  10-P-8011;10;Pièce;-;Visserie;Chantier;4;Vis Cylindrique M6x12;-;-;-;Inox Brut 2B;0;0;0;;;Brut;-;1;20
+10-E-4202;10;Assemblage;-;Acier;Chantier;5;Assemblage Traverse;-;-;-;Divers;1010.29;124;60;7.02;890411.00;IGP 5803 E 71755 A10;-;0;5
+  Esquisse 10-E-4202;;;;;;1;;;;;;;;;;;;;1;5
+  10-P-0154;10;Pièce;-;Usinage Acier;Production;1;Tube carré MSH 60x60x3.2;EN 10210;-;-;Acier;1010.29;60;60;5.61;444508.88;Brut;-;1;5
+  10-P-0206;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;890.29;18;12;1.28;415226.77;Brut;-;1;5
+  10-P-3000;10;Pièce;-;Achat;Production;2;Cale à verre Raico 167391;-;-;-;Alu;100;49;18;0.05;14127.90;Brut;-;1;10
+  10-P-8011;10;Pièce;-;Visserie;Chantier;4;Vis Cylindrique M6x12;-;-;-;Inox Brut 2B;0;0;0;;;Brut;-;1;20
+10-E-4222;10;Assemblage;-;Acier;Chantier;3;Assemblage Traverse;-;-;-;Divers;1010.29;184;190;12.05;1122581.17;IGP 5803 E 71755 A10;-;0;3
+  Esquisse 10-E-4222;;;;;;1;;;;;;;;;;;;;1;3
+  10-P-0104;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;1010.29;120;60;10.64;676679.05;Brut;-;1;3
+  10-P-0206;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;890.29;18;12;1.28;415226.77;Brut;-;1;3
+  10-P-3000;10;Pièce;-;Achat;Production;2;Cale à verre Raico 167391;-;-;-;Alu;100;49;18;0.05;14127.90;Brut;-;1;6
+  10-P-8011;10;Pièce;-;Visserie;Chantier;4;Vis Cylindrique M6x12;-;-;-;Inox Brut 2B;0;0;0;;;Brut;-;1;12
+10-E-4203;10;Assemblage;-;Acier;Chantier;2;Assemblage Traverse;-;-;-;Divers;988.33;124;60;6.87;870562.39;IGP 5803 E 71755 A10;-;0;2
+  Esquisse 10-E-4203;;;;;;1;;;;;;;;;;;;;1;2
+  10-P-0158;10;Pièce;-;Usinage Acier;Production;1;Tube carré MSH 60x60x3.2;EN 10210;-;-;Acier;988.33;60;60;5.49;434872.53;Brut;-;1;2
+  10-P-0221;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;868.33;18;12;1.25;405014.51;Brut;-;1;2
+  10-P-3000;10;Pièce;-;Achat;Production;2;Cale à verre Raico 167391;-;-;-;Alu;100;49;18;0.05;14127.90;Brut;-;1;4
+  10-P-8011;10;Pièce;-;Visserie;Chantier;4;Vis Cylindrique M6x12;-;-;-;Inox Brut 2B;0;0;0;;;Brut;-;1;8
+10-E-4204;10;Assemblage;-;Acier;Chantier;2;Assemblage Traverse;-;-;-;Divers;978.33;124;60;6.80;861521.08;IGP 5803 E 71755 A10;-;0;2
+  Esquisse 10-E-4204;;;;;;1;;;;;;;;;;;;;1;2
+  10-P-0159;10;Pièce;-;Usinage Acier;Production;1;Tube carré MSH 60x60x3.2;EN 10210;-;-;Acier;978.33;60;60;5.43;430483.04;Brut;-;1;2
+  10-P-0222;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;858.33;18;12;1.24;400362.69;Brut;-;1;2
+  10-P-3000;10;Pièce;-;Achat;Production;2;Cale à verre Raico 167391;-;-;-;Alu;100;49;18;0.05;14127.90;Brut;-;1;4
+  10-P-8011;10;Pièce;-;Visserie;Chantier;4;Vis Cylindrique M6x12;-;-;-;Inox Brut 2B;0;0;0;;;Brut;-;1;8
+10-E-4231;10;Assemblage;-;Acier;Chantier;1;Assemblage Traverse;-;-;-;Divers;998.33;184;190;13.04;1523279.33;IGP 5803 E 71755 A10;-;0;1
+  Esquisse 10-E-4231;;;;;;1;;;;;;;;;;;;;1;1
+  10-P-0102;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;998.33;120;60;10.51;668701.48;Brut;-;1;1
+  10-P-0204;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;878.33;18;12;1.27;409666.34;Brut;-;1;1
+  10-P-3000;10;Pièce;-;Achat;Production;2;Cale à verre Raico 167391;-;-;-;Alu;100;49;18;0.05;14127.90;Brut;-;1;2
+  10-P-8011;10;Pièce;-;Visserie;Chantier;4;Vis Cylindrique M6x12;-;-;-;Inox Brut 2B;0;0;0;;;Brut;-;1;4
+  10-P-8007;10;;-;Visserie;Chantier;8;Vis à tôle - Tête cylindrique bombée - St 00x00;-;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;1;8
+  10-P-2050;10;Pièce;-;Tôlerie;Chantier;1;Tôle alu 2mm;-;-;-;Alu;1060.32;192.98;2;1.10;410486.69;IGP 5803 E 71755 A10;-;1;1
+    ;;;;;;-;Sheet;;;;;;;;1.10;;;;-1;
+10-E-4220;10;Assemblage;-;Acier;Chantier;1;Assemblage Traverse;-;-;-;Divers;998.33;184;60;13.73;1778732.71;IGP 5803 E 71755 A10;-;0;1
+  Esquisse 10-E-4220;;;;;;1;;;;;;;;;;;;;1;1
+  10-P-0102;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;998.33;120;60;10.51;668701.48;Brut;-;1;1
+  10-P-0204;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;878.33;18;12;1.27;409666.34;Brut;-;1;1
+  10-P-3000;10;Pièce;-;Achat;Production;2;Cale à verre Raico 167391;-;-;-;Alu;100;49;18;0.05;14127.90;Brut;-;1;2
+  10-P-8011;10;Pièce;-;Visserie;Chantier;4;Vis Cylindrique M6x12;-;-;-;Inox Brut 2B;0;0;0;;;Brut;-;1;4
+  10-P-8007;10;;-;Visserie;Chantier;8;Vis à tôle - Tête cylindrique bombée - St 00x00;-;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;1;8
+  10-P-2061;10;Pièce;-;Tôlerie;Chantier;1;Tôle alu 2mm;-;-;-;Alu;1060.32;312.98;2;1.79;665940.07;IGP 5803 E 71755 A10;-;1;1
+    ;;;;;;-;Sheet;;;;;;;;1.79;;;;-1;
+10-E-4221;10;Assemblage;-;Acier;Chantier;1;Assemblage Traverse;-;-;-;Divers;1049.43;184;60;14.43;1869001.81;IGP 5803 E 71755 A10;-;0;1
+  Esquisse 10-E-4221;;;;;;1;;;;;;;;;;;;;1;1
+  10-P-0103;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;1049.43;120;60;11.05;702802.18;Brut;-;1;1
+  10-P-0205;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;929.43;18;12;1.34;433434.81;Brut;-;1;1
+  10-P-3000;10;Pièce;-;Achat;Production;2;Cale à verre Raico 167391;-;-;-;Alu;100;49;18;0.05;14127.90;Brut;-;1;2
+  10-P-2052;10;Pièce;-;Tôlerie;Chantier;1;Tôle alu 2mm;-;-;-;Alu;1111.41;312.98;2;1.87;698339.99;IGP 5803 E 71755 A10;-;1;1
+    ;;;;;;-;Sheet;;;;;;;;1.87;;;;-1;
+  10-P-8007;10;;-;Visserie;Chantier;8;Vis à tôle - Tête cylindrique bombée - St 00x00;-;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;1;8
+  10-P-8011;10;Pièce;-;Visserie;Chantier;4;Vis Cylindrique M6x12;-;-;-;Inox Brut 2B;0;0;0;;;Brut;-;1;4
+10-E-4223;10;Assemblage;-;Acier;Chantier;1;Assemblage Traverse;-;-;-;Divers;635.81;184;60;7.62;816466.13;IGP 5803 E 71755 A10;-;0;1
+  Esquisse 10-E-4223;;;;;;1;;;;;;;;;;;;;1;1
+  10-P-0105;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;635.81;120;60;6.69;426755.44;Brut;-;1;1
+  10-P-0209;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;515.81;18;12;0.80;359035.35;Brut;-;1;1
+  10-P-3000;10;Pièce;-;Achat;Production;2;Cale à verre Raico 167391;-;-;-;Alu;100;49;18;0.05;14127.90;Brut;-;1;2
+  10-P-8011;10;Pièce;-;Visserie;Chantier;4;Vis Cylindrique M6x12;-;-;-;Inox Brut 2B;0;0;0;;;Brut;-;1;4
+10-E-4224;10;Assemblage;-;Acier;Chantier;1;Assemblage Traverse;-;-;-;Divers;980.07;184;60;11.79;1284986.91;IGP 5803 E 71755 A10;-;0;1
+  Esquisse 10-E-4224;;;;;;1;;;;;;;;;;;;;1;1
+  10-P-0106;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;980.07;120;60;10.32;656514.68;Brut;-;1;1
+  10-P-0210;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;860.07;18;12;1.33;597796.89;Brut;-;1;1
+  10-P-3000;10;Pièce;-;Achat;Production;2;Cale à verre Raico 167391;-;-;-;Alu;100;49;18;0.05;14127.90;Brut;-;1;2
+  10-P-8011;10;Pièce;-;Visserie;Chantier;4;Vis Cylindrique M6x12;-;-;-;Inox Brut 2B;0;0;0;;;Brut;-;1;4
+10-E-4225;10;Assemblage;-;Acier;Chantier;1;Assemblage Traverse;-;-;-;Divers;1064.13;184;60;12.80;1399384.03;IGP 5803 E 71755 A10;-;0;1
+  Esquisse 10-E-4225;;;;;;1;;;;;;;;;;;;;1;1
+  10-P-0107;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;1064.13;120;60;11.21;712614.20;Brut;-;1;1
+  10-P-0211;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;944.13;18;12;1.46;656094.48;Brut;-;1;1
+  10-P-3000;10;Pièce;-;Achat;Production;2;Cale à verre Raico 167391;-;-;-;Alu;100;49;18;0.05;14127.90;Brut;-;1;2
+  10-P-8011;10;Pièce;-;Visserie;Chantier;4;Vis Cylindrique M6x12;-;-;-;Inox Brut 2B;0;0;0;;;Brut;-;1;4
+10-E-4226;10;Assemblage;-;Acier;Chantier;1;Assemblage Traverse;-;-;-;Divers;998.33;141;612;15.35;2393367.87;Thermolaqué;RAL 9007;0;1
+  Esquisse 10-E-4226;;;;;;1;;;;;;;;;;;;;1;1
+  10-P-0102;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;998.33;120;60;10.51;668701.48;Brut;-;1;1
+  10-P-0204;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;878.33;18;12;1.27;409666.34;Brut;-;1;1
+  10-P-2054;10;Pièce;-;Tôlerie;Chantier;1;Tôle alu 2mm;-;-;-;Alu;1060.32;614.98;2;3.52;1308831.05;IGP 5803 E 71755 A10;-;1;1
+    ;;;;;;-;Sheet;;;;;;;;3.52;;;;-1;
+  10-P-8011;10;Pièce;-;Visserie;Chantier;4;Vis Cylindrique M6x12;-;-;-;Inox Brut 2B;0;0;0;;;Brut;-;1;4
+  10-P-8007;10;;-;Visserie;Chantier;8;Vis à tôle - Tête cylindrique bombée - St 00x00;-;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;1;8
+10-E-4227;10;Assemblage;-;Acier;Chantier;1;Assemblage Traverse;-;-;-;Divers;2056.67;184;140;25.16;2375976.57;IGP 5803 E 71755 A10;-;0;1
+  Esquisse 10-E-4227;;;;;;1;;;;;;;;;;;;;1;1
+  10-P-0108;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;2056.67;120;60;21.67;1375031.26;Brut;-;1;1
+  10-P-2011;10;Pièce;-;Tôlerie;Production;1;Tôle acier 3mm manchon;-;-;-;Acier;231.09;80;3;0.45;40030.01;Brut;-;1;1
+    ;;;;;;-;Sheet;;;;;;;;0.45;;;;-1;
+  10-P-0212;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;1936.67;18;12;2.79;901984.14;Brut;-;1;1
+  10-P-3000;10;Pièce;-;Achat;Production;4;Cale à verre Raico 167391;-;-;-;Alu;100;49;18;0.05;14127.90;Brut;-;1;4
+  10-P-8011;10;Pièce;-;Visserie;Chantier;4;Vis Cylindrique M6x12;-;-;-;Inox Brut 2B;0;0;0;;;Brut;-;1;4
+10-E-4228;10;Assemblage;-;Acier;Chantier;1;Assemblage Traverse;-;-;-;Divers;1827.50;141.35;60;21.90;2070750.51;IGP 5803 E 71755 A10;-;0;1
+  Esquisse 10-E-4228;;;;;;1;;;;;;;;;;;;;1;1
+  10-P-0109;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;1827.50;120;60;19.27;1222339.85;Brut;-;1;1
+  10-P-0213;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;1821.50;18;12;2.63;848410.66;Brut;-;1;1
+10-E-4229;10;Assemblage;-;Acier;Chantier;1;Assemblage Traverse;-;-;-;Divers;988.33;184;60;11.79;1097717.35;IGP 5803 E 71755 A10;-;0;1
+  Esquisse 10-E-4229;;;;;;1;;;;;;;;;;;;;1;1
+  10-P-0113;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;988.33;120;60;10.41;662027.50;Brut;-;1;1
+  10-P-0221;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;868.33;18;12;1.25;405014.51;Brut;-;1;1
+  10-P-3000;10;Pièce;-;Achat;Production;2;Cale à verre Raico 167391;-;-;-;Alu;100;49;18;0.05;14127.90;Brut;-;1;2
+  10-P-8011;10;Pièce;-;Visserie;Chantier;4;Vis Cylindrique M6x12;-;-;-;Inox Brut 2B;0;0;0;;;Brut;-;1;4
+10-E-4230;10;Assemblage;-;Acier;Chantier;1;Assemblage Traverse;-;-;-;Divers;978.33;184;60;11.67;1086391.55;IGP 5803 E 71755 A10;-;0;1
+  Esquisse 10-E-4230;;;;;;1;;;;;;;;;;;;;1;1
+  10-P-0114;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x60x4;EN 10210;-;-;Acier;978.33;120;60;10.30;655353.51;Brut;-;1;1
+  10-P-0222;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;858.33;18;12;1.24;400362.69;Brut;-;1;1
+  10-P-3000;10;Pièce;-;Achat;Production;2;Cale à verre Raico 167391;-;-;-;Alu;100;49;18;0.05;14127.90;Brut;-;1;2
+  10-P-8011;10;Pièce;-;Visserie;Chantier;4;Vis Cylindrique M6x12;-;-;-;Inox Brut 2B;0;0;0;;;Brut;-;1;4
+10-E-4050;10;Assemblage;-;Acier;Chantier;1;Assemblage Traverse;-;-;-;Divers;240;184;6692.42;136.71;8005080.88;IGP 5803 E 71755 A10;-;0;1
+  Esquisse 10-E-4050;;;;;;1;;;;;;;;;;;;;1;1
+  10-P-0057;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x80x6.3;EN 10210;-;-;Acier;6684.42;120;80;118.22;4756201.28;Brut;-;1;1
+  10-P-2114;10;Pièce;-;Tôlerie;Production;1;Tôle acier 8mm;-;-;-;Acier;120;80;8;0.60;21957.51;Brut;-;1;1
+  10-P-0202;10;Pièce;-;Usinage Acier;Production;4;Raico 129005;-;-;-;Acier;992.33;18;12;1.43;462697.10;Brut;-;1;4
+  10-P-0220;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;1025.33;18;12;1.48;478048.12;Brut;-;1;1
+  10-P-0262;10;Pièce;-;Usinage Acier;Production;5;Raico 129005;-;-;-;Acier;60;18;12;0.09;31679.71;Brut;-;1;5
+  10-P-3000;10;Pièce;-;Achat;Production;10;Cale à verre Raico 167391;-;-;-;Alu;100;49;18;0.05;14127.90;Brut;-;1;10
+  10-P-2011;10;Pièce;-;Tôlerie;Production;10;Tôle acier 3mm manchon;-;-;-;Acier;231.09;80;3;0.45;40030.01;Brut;-;1;10
+    ;;;;;;-;Sheet;;;;;;;;0.45;;;;-1;
+  10-P-2005;10;Pièce;-;Tôlerie;Production;6;Tôle acier 8mm;-;-;-;Acier;150.78;80;8;0.77;28574.87;Brut;-;1;6
+    ;;;;;;-;Sheet;;;;;;;;0.77;;;;-1;
+  10-P-2021;10;Pièce;-;Tôlerie;Production;1;Tôle acier 8mm;-;-;-;Acier;66;66;8;0.28;10824.00;Brut;-;1;1
+  10-P-8001;10;Pièce;-;Visserie;Chantier;6;Hilti HSC-I M10x60;-;-;-;Acier;0;0;0;0;0;Brut;-;1;6
+10-E-4051;10;Assemblage;-;Acier;Chantier;1;Assemblage Traverse;-;-;-;Divers;240;184;3340.83;73.26;4250352.81;IGP 5803 E 71755 A10;-;0;1
+  Esquisse 10-E-4051;;;;;;1;;;;;;;;;;;;;1;1
+  10-P-0058;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 120x80x6.3;EN 10210;-;-;Acier;3332.83;120;80;58.41;2352588.98;Brut;-;1;1
+  10-P-2114;10;Pièce;-;Tôlerie;Production;1;Tôle acier 8mm;-;-;-;Acier;120;80;8;0.60;21957.51;Brut;-;1;1
+  10-P-0317;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;1043.43;18;12;1.50;486465.58;Brut;-;1;1
+  10-P-0215;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;744;18;12;1.07;347176.86;Brut;-;1;1
+  10-P-0219;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;1066.76;18;12;1.54;497321.35;Brut;-;1;1
+  10-P-0262;10;Pièce;-;Usinage Acier;Production;3;Raico 129005;-;-;-;Acier;60;18;12;0.09;31679.71;Brut;-;1;3
+  10-P-3000;10;Pièce;-;Achat;Production;6;Cale à verre Raico 167391;-;-;-;Alu;100;49;18;0.05;14127.90;Brut;-;1;6
+  10-P-2011;10;Pièce;-;Tôlerie;Production;6;Tôle acier 3mm manchon;-;-;-;Acier;231.09;80;3;0.45;40030.01;Brut;-;1;6
+    ;;;;;;-;Sheet;;;;;;;;0.45;;;;-1;
+  10-P-2005;10;Pièce;-;Tôlerie;Production;4;Tôle acier 8mm;-;-;-;Acier;150.78;80;8;0.77;28574.87;Brut;-;1;4
+    ;;;;;;-;Sheet;;;;;;;;0.77;;;;-1;
+  10-P-8001;10;Pièce;-;Visserie;Chantier;4;Hilti HSC-I M10x60;-;-;-;Acier;0;0;0;0;0;Brut;-;1;4
+10-E-4332;10;Assemblage;-;Acier;Chantier;1;Assemblage Tôle-Raico;-;-;-;Divers;"RD1@Annotations@10-Tole Angle Supperior.moAssembly_c";"RD2@Annotations@10-Tole Angle Supperior.moAssembly_c";"RD3@Annotations@10-Tole Angle Supperior.moAssembly_c";42.78;4014966.81;IGP 5803 E 71755 A10;-;0;1
+  Esquisse 10-E-4332;;;;;;1;;;;;;;;;;;;;1;1
+  10-P-2333;10;Pièce;-;Tôlerie;Production;1;Tôle acier 4mm;-;-;-;Acier;2384.90;508.85;1629.01;33.88;2172015.65;Brut;-;1;1
+  10-P-0306;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;1043.43;18;12;1.50;486465.58;Brut;-;1;1
+  10-P-0307;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;1066.26;18;12;1.54;497088.76;Brut;-;1;1
+  10-P-0313;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;120;18;12;0.17;56903.18;Brut;-;1;1
+  10-P-0314;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;134.81;18;12;0.19;63792.99;Brut;-;1;1
+  10-P-1250;10;Pièce;-;Usinage Alu;Chantier;1;Calle Klebit 49x25;-;-;-;Klebit PUR 500;2202.69;"RD2@Annotations@10-P-12.moPart_c";"RD3@Annotations@10-P-12.moPart_c";0.84;176965.46;Brut;-;1;1
+  10-P-1252;10;Pièce;-;Usinage Alu;Chantier;1;Calle Klebit 49x25;-;-;-;Klebit PUR 500;1422.40;"RD2@Annotations@10-P-12.moPart_c";"RD3@Annotations@10-P-12.moPart_c";2.66;318062.38;Brut;-;1;1
+  10-P-2351;10;Pièce;-;Tôlerie;Chantier;6;Tôle alu 1mm;-;-;-;Alu;80.23;60;3;0.08;22144.98;A définir;-;1;6
+    ;;;;;;-;Sheet;;;;;;;;0.08;;;;-1;
+  10-Fixation M8 Angle Sup;;;;;;2;;;;;;;;;;;;;1;2
+    10-P-8019;10;Pièce;-;Visserie;Chantier;1;Vis Hexa M8x25;DIN 933;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;2;2
+    10-P-8025;10;Visserie;-;Visserie;Chantier;2;Rondelle M8;DIN 125A;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;2;4
+    10-P-8034;10;Visserie;-;Visserie;Chantier;1;Ecrou M8;DIN 934;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;2;2
+  10-Fixation M12 Angle Sup;;;;;;10;;;;;;;;;;;;;1;10
+    10-P-8016;10;Pièce;-;Visserie;Chantier;1;Vis Hexa M12x50;DIN 933;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;2;10
+    10-P-8020;10;Visserie;-;Visserie;Chantier;2;Rondelle M12;DIN 125A;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;2;20
+    10-P-8030;10;Visserie;-;Visserie;Chantier;1;Ecrou M12;DIN 934;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;2;10
+  10-M10x30 Hexa-00;;;;;;4;;;;;;;;;;;;;1;4
+    10-P-8017;10;Pièce;-;Visserie;Chantier;1;Vis Hexa M10x30;DIN 933;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;2;4
+    10-P-8023;10;Pièce;-;Visserie;Chantier;1;Grande rondelle M8;DIN 9021;-;-;Inox Brut 2B;-;-;-;-;-;Brut;-;2;4
+  10-P-8008;10;;-;Visserie;Chantier;12;Vis à tôle - Tête cylindrique bombée - St 00x00;-;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;1;12
+  10-E-4121;10;Assemblage;-;Acier;Chantier;1;Assemblage Manchon;-;-;-;Divers;53;100;53;0.29;25258.99;Peint Antirouille;Zimo Z1 60my;1;1
+    10-P-2001;10;Pièce;-;Tôlerie;Production;1;Tôle acier 3mm;-;-;-;Acier;188.09;53;3;0.21;20095.48;Brut;-;2;1
+      ;;;;;;-;Sheet;;;;;;;;0.21;;;;-1;
+    10-P-0900;10;Pièce;-;Usinage Acier;Production;2;Rond acier 8mm;-;-;-;Acier;100;8;0;0.04;2581.76;Brut;-;2;2
+10-E-4333;10;Assemblage;-;Acier;Chantier;1;Assemblage Tôle-Raico;-;-;-;Divers;"RD1@Annotations@10-Tole Angle Supperior-01.moAssembly_c";"RD2@Annotations@10-Tole Angle Supperior-01.moAssembly_c";"RD3@Annotations@10-Tole Angle Supperior-01.moAssembly_c";27.06;2479524.60;IGP 5803 E 71755 A10;-;0;1
+  Esquisse 10-E-4333;;;;;;1;;;;;;;;;;;;;1;1
+  10-P-2335;10;Pièce;-;Tôlerie;Production;1;Tôle acier 4mm;-;-;-;Acier;1422.40;551.49;702.97;22.06;1416208.81;Brut;-;1;1
+  10-P-0315;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;54;18;12;0.08;26201.16;Brut;-;1;1
+  10-P-0316;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;245.02;18;12;0.35;115060.76;Brut;-;1;1
+  10-P-0308;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;386;18;12;0.56;180641.64;Brut;-;1;1
+  10-P-0309;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;744;18;12;1.07;347176.86;Brut;-;1;1
+  10-P-1251;10;Pièce;-;Usinage Alu;Chantier;1;Calle Klebit 49x25;-;-;-;Klebit PUR 500;1223;"RD2@Annotations@10-P-12.moPart_c";"RD3@Annotations@10-P-12.moPart_c";0.47;98590.00;Brut;-;1;1
+  10-P-1253;10;Pièce;-;Usinage Alu;Chantier;1;Calle Klebit 49x25;-;-;-;Klebit PUR 500;1422.40;"RD2@Annotations@10-P-12.moPart_c";"RD3@Annotations@10-P-12.moPart_c";1.44;172980.96;Brut;-;1;1
+  10-P-2351;10;Pièce;-;Tôlerie;Chantier;3;Tôle alu 1mm;-;-;-;Alu;80.23;60;3;0.08;22144.98;A définir;-;1;3
+    ;;;;;;-;Sheet;;;;;;;;0.08;;;;-1;
+  10-Fixation M8 Angle Sup;;;;;;2;;;;;;;;;;;;;1;2
+    10-P-8019;10;Pièce;-;Visserie;Chantier;1;Vis Hexa M8x25;DIN 933;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;2;2
+    10-P-8025;10;Visserie;-;Visserie;Chantier;2;Rondelle M8;DIN 125A;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;2;4
+    10-P-8034;10;Visserie;-;Visserie;Chantier;1;Ecrou M8;DIN 934;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;2;2
+  10-Fixation M12 Angle Sup;;;;;;6;;;;;;;;;;;;;1;6
+    10-P-8016;10;Pièce;-;Visserie;Chantier;1;Vis Hexa M12x50;DIN 933;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;2;6
+    10-P-8020;10;Visserie;-;Visserie;Chantier;2;Rondelle M12;DIN 125A;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;2;12
+    10-P-8030;10;Visserie;-;Visserie;Chantier;1;Ecrou M12;DIN 934;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;2;6
+  10-M10x30 Hexa-00;;;;;;4;;;;;;;;;;;;;1;4
+    10-P-8017;10;Pièce;-;Visserie;Chantier;1;Vis Hexa M10x30;DIN 933;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;2;4
+    10-P-8023;10;Pièce;-;Visserie;Chantier;1;Grande rondelle M8;DIN 9021;-;-;Inox Brut 2B;-;-;-;-;-;Brut;-;2;4
+  10-P-8008;10;;-;Visserie;Chantier;6;Vis à tôle - Tête cylindrique bombée - St 00x00;-;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;1;6
+10-E-4312;10;Assemblage;-;Acier;Chantier;1;Assemblage Tôle-Raico;-;-;-;Divers;2141.26;144.48;89.01;18.38;1953568.66;IGP 5803 E 71755 A10;-;0;1
+  Esquisse 10-E-4312;;;;;;1;;;;;;;;;;;;;1;1
+  10-P-2312;10;Pièce;-;Tôlerie;Production;1;Tôle acier 4mm;-;-;-;Acier;2148.09;225;"RD3@Annotations@Pièce13.moPart_c";15.29;988656.95;Brut;-;1;1
+    ;;;;;;-;Sheet;;;;;;;;15.29;;;;-1;
+  10-P-0299;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;1040.49;18;12;1.50;485100.30;Brut;-;1;1
+  10-P-0291;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;1008.97;18;12;1.45;470437.84;Brut;-;1;1
+  10-M10x30 Hexa-00;;;;;;4;;;;;;;;;;;;;1;4
+    10-P-8017;10;Pièce;-;Visserie;Chantier;1;Vis Hexa M10x30;DIN 933;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;2;4
+    10-P-8023;10;Pièce;-;Visserie;Chantier;1;Grande rondelle M8;DIN 9021;-;-;Inox Brut 2B;-;-;-;-;-;Brut;-;2;4
+10-E-4313;10;Assemblage;-;Acier;Chantier;1;Assemblage Tôle-Raico;-;-;-;Divers;1458.92;141;89.01;12.47;1317465.18;IGP 5803 E 71755 A10;-;0;1
+  Esquisse 10-E-4313;;;;;;1;;;;;;;;;;;;;1;1
+  10-P-2313;10;Pièce;-;Tôlerie;Production;1;Tôle acier 4mm;-;-;-;Acier;1458.92;225;"RD3@Annotations@Pièce13.moPart_c";10.37;671703.40;Brut;-;1;1
+    ;;;;;;-;Sheet;;;;;;;;10.37;;;;-1;
+  10-P-0303;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;1076.50;18;12;1.55;501848.50;Brut;-;1;1
+  10-P-0304;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;286.89;18;12;0.41;134539.70;Brut;-;1;1
+  10-M10x30 Hexa-00;;;;;;4;;;;;;;;;;;;;1;4
+    10-P-8017;10;Pièce;-;Visserie;Chantier;1;Vis Hexa M10x30;DIN 933;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;2;4
+    10-P-8023;10;Pièce;-;Visserie;Chantier;1;Grande rondelle M8;DIN 9021;-;-;Inox Brut 2B;-;-;-;-;-;Brut;-;2;4
+10-E-4300;10;Assemblage;-;Acier;Chantier;3;Assemblage Tôle-Raico;-;-;-;Divers;2148.09;141;89.01;18.61;1956452.48;IGP 5803 E 71755 A10;-;0;3
+  Esquisse 10-E-4300;;;;;;1;;;;;;;;;;;;;1;3
+  10-P-2300;10;Pièce;-;Tôlerie;Production;1;Tôle acier 4mm;-;-;-;Acier;2148.09;225;"RD3@Annotations@Pièce13.moPart_c";15.50;1001516.44;Brut;-;1;3
+    ;;;;;;-;Sheet;;;;;;;;15.50;;;;-1;
+  10-P-0291;10;Pièce;-;Usinage Acier;Production;2;Raico 129005;-;-;-;Acier;1008.97;18;12;1.45;470437.84;Brut;-;1;6
+  10-M10x30 Hexa-00;;;;;;6;;;;;;;;;;;;;1;18
+    10-P-8017;10;Pièce;-;Visserie;Chantier;1;Vis Hexa M10x30;DIN 933;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;2;18
+    10-P-8023;10;Pièce;-;Visserie;Chantier;1;Grande rondelle M8;DIN 9021;-;-;Inox Brut 2B;-;-;-;-;-;Brut;-;2;18
+10-E-4301;10;Assemblage;-;Acier;Chantier;3;Assemblage Tôle-Raico;-;-;-;Divers;2112.18;141;88.98;18.29;1922819.09;IGP 5803 E 71755 A10;-;0;3
+  Esquisse 10-E-4301;;;;;;1;;;;;;;;;;;;;1;3
+  10-P-2301;10;Pièce;-;Tôlerie;Production;1;Tôle acier 4mm;-;-;-;Acier;2148.09;225;"RD3@Annotations@Pièce13.moPart_c";15.24;984622.85;Brut;-;1;3
+    ;;;;;;-;Sheet;;;;;;;;15.24;;;;-1;
+  10-P-0292;10;Pièce;-;Usinage Acier;Production;2;Raico 129005;-;-;-;Acier;990.98;18;12;1.43;462067.94;Brut;-;1;6
+  10-M10x30 Hexa-00;;;;;;6;;;;;;;;;;;;;1;18
+    10-P-8017;10;Pièce;-;Visserie;Chantier;1;Vis Hexa M10x30;DIN 933;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;2;18
+    10-P-8023;10;Pièce;-;Visserie;Chantier;1;Grande rondelle M8;DIN 9021;-;-;Inox Brut 2B;-;-;-;-;-;Brut;-;2;18
+10-E-4310;10;Assemblage;-;Acier;Chantier;1;Assemblage Tôle-Raico;-;-;-;Divers;2126.64;141;89.01;18.47;1947120.34;IGP 5803 E 71755 A10;-;0;1
+  Esquisse 10-E-4310;;;;;;1;;;;;;;;;;;;;1;1
+  10-P-2310;10;Pièce;-;Tôlerie;Production;1;Tôle acier 4mm;-;-;-;Acier;2194.19;225;"RD3@Annotations@Pièce13.moPart_c";15.43;996871.09;Brut;-;1;1
+    ;;;;;;-;Sheet;;;;;;;;15.43;;;;-1;
+  10-P-0291;10;Pièce;-;Usinage Acier;Production;2;Raico 129005;-;-;-;Acier;1008.97;18;12;1.45;470437.84;Brut;-;1;2
+  10-M10x30 Hexa-00;;;;;;4;;;;;;;;;;;;;1;4
+    10-P-8017;10;Pièce;-;Visserie;Chantier;1;Vis Hexa M10x30;DIN 933;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;2;4
+    10-P-8023;10;Pièce;-;Visserie;Chantier;1;Grande rondelle M8;DIN 9021;-;-;Inox Brut 2B;-;-;-;-;-;Brut;-;2;4
+10-E-4302;10;Assemblage;-;Acier;Chantier;1;Assemblage Tôle-Raico;-;-;-;Divers;2176.57;141;90;18.93;1988298.03;IGP 5803 E 71755 A10;-;0;1
+  Esquisse 10-E-4302;;;;;;1;;;;;;;;;;;;;1;1
+  10-P-2302;10;Pièce;-;Tôlerie;Production;1;Tôle acier 4mm;-;-;-;Acier;2148.09;225;"RD3@Annotations@Pièce13.moPart_c";15.78;1019115.30;Brut;-;1;1
+    ;;;;;;-;Sheet;;;;;;;;15.78;;;;-1;
+  10-P-0293;10;Pièce;-;Usinage Acier;Production;2;Raico 129005;-;-;-;Acier;1024.29;18;12;1.48;477561.19;Brut;-;1;2
+  10-M10x30 Hexa-00;;;;;;6;;;;;;;;;;;;;1;6
+    10-P-8017;10;Pièce;-;Visserie;Chantier;1;Vis Hexa M10x30;DIN 933;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;2;6
+    10-P-8023;10;Pièce;-;Visserie;Chantier;1;Grande rondelle M8;DIN 9021;-;-;Inox Brut 2B;-;-;-;-;-;Brut;-;2;6
+10-E-4320;10;Assemblage;-;Acier;Chantier;1;Assemblage Tôle-Raico;-;-;-;Divers;1902.19;144.49;90;16.56;1759926.73;IGP 5803 E 71755 A10;-;0;1
+  Esquisse 10-E-4320;;;;;;1;;;;;;;;;;;;;1;1
+  10-P-2320;10;Pièce;-;Tôlerie;Production;1;Tôle acier 4mm;-;-;-;Acier;2148.09;225;"RD3@Annotations@Pièce13.moPart_c";13.75;888865.91;Brut;-;1;1
+    ;;;;;;-;Sheet;;;;;;;;13.75;;;;-1;
+  10-P-0294;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;818.13;18;12;1.18;381660.68;Brut;-;1;1
+  10-P-0293;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;1024.29;18;12;1.48;477561.19;Brut;-;1;1
+  10-M6x20 Fraisée-00;;;;;;2;;;;;;;;;;;;;1;2
+    10-P-8018;10;Pièce;-;Visserie;Chantier;1;Vis Tête fraisée - M6;DIN 7991;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;2;2
+    10-P-8024;10;Visserie;-;Visserie;Chantier;1;Rondelle M6;DIN 125A;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;2;2
+    10-P-8033;10;Visserie;-;Visserie;Chantier;1;Ecrou M6;DIN 934;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;2;2
+  10-M10x30 Hexa-00;;;;;;4;;;;;;;;;;;;;1;4
+    10-P-8017;10;Pièce;-;Visserie;Chantier;1;Vis Hexa M10x30;DIN 933;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;2;4
+    10-P-8023;10;Pièce;-;Visserie;Chantier;1;Grande rondelle M8;DIN 9021;-;-;Inox Brut 2B;-;-;-;-;-;Brut;-;2;4
+10-E-4321;10;Assemblage;-;Acier;Chantier;1;Assemblage Tôle-Raico;-;-;-;Divers;1173.29;141;90;9.93;1059840.70;IGP 5803 E 71755 A10;-;0;1
+  Esquisse 10-E-4321;;;;;;1;;;;;;;;;;;;;1;1
+  10-P-2321;10;Pièce;-;Tôlerie;Production;1;Tôle acier 4mm;-;-;-;Acier;2148.09;225;"RD3@Annotations@Pièce13.moPart_c";8.19;530749.11;Brut;-;1;1
+    ;;;;;;-;Sheet;;;;;;;;8.19;;;;-1;
+  10-P-0296;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;822.29;18;12;1.19;383594.39;Brut;-;1;1
+  10-P-0295;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;285;18;12;0.41;133658.24;Brut;-;1;1
+  10-M6x20 Fraisée-00;;;;;;2;;;;;;;;;;;;;1;2
+    10-P-8018;10;Pièce;-;Visserie;Chantier;1;Vis Tête fraisée - M6;DIN 7991;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;2;2
+    10-P-8024;10;Visserie;-;Visserie;Chantier;1;Rondelle M6;DIN 125A;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;2;2
+    10-P-8033;10;Visserie;-;Visserie;Chantier;1;Ecrou M6;DIN 934;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;2;2
+  10-M10x30 Hexa-00;;;;;;4;;;;;;;;;;;;;1;4
+    10-P-8017;10;Pièce;-;Visserie;Chantier;1;Vis Hexa M10x30;DIN 933;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;2;4
+    10-P-8023;10;Pièce;-;Visserie;Chantier;1;Grande rondelle M8;DIN 9021;-;-;Inox Brut 2B;-;-;-;-;-;Brut;-;2;4
+10-E-4311;10;Assemblage;-;Acier;Chantier;1;Assemblage Tôle-Raico;-;-;-;Divers;2097.30;144.48;89.01;18.26;1923921.93;IGP 5803 E 71755 A10;-;0;1
+  Esquisse 10-E-4311;;;;;;1;;;;;;;;;;;;;1;1
+  10-P-2311;10;Pièce;-;Tôlerie;Production;1;Tôle acier 4mm;-;-;-;Acier;2148.09;225;"RD3@Annotations@Pièce13.moPart_c";15.19;982536.44;Brut;-;1;1
+    ;;;;;;-;Sheet;;;;;;;;15.19;;;;-1;
+  10-P-0297;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;289.95;18;12;0.42;135959.47;Brut;-;1;1
+  10-P-0298;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;1698.87;18;12;2.45;791365.65;Brut;-;1;1
+  10-M10x30 Hexa-00;;;;;;6;;;;;;;;;;;;;1;6
+    10-P-8017;10;Pièce;-;Visserie;Chantier;1;Vis Hexa M10x30;DIN 933;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;2;6
+    10-P-8023;10;Pièce;-;Visserie;Chantier;1;Grande rondelle M8;DIN 9021;-;-;Inox Brut 2B;-;-;-;-;-;Brut;-;2;6
+10-E-4250;10;Assemblage;-;Acier;Chantier;6;Assemblage Traverse;-;-;-;Divers;2036.25;81;60;14.15;1977856.64;IGP 5803 E 71755 A10;-;0;6
+  Esquisse 10-E-4250;;;;;;1;;;;;;;;;;;;;1;6
+  10-P-0166;10;Pièce;-;Usinage Acier;Production;1;Tube carré MSH 60x60x3.2;EN 10210;-;-;Acier;2036.25;60;60;11.31;894855.41;Brut;-;1;6
+  10-P-0263;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;1916.25;18;12;2.82;1080581.69;Brut;-;1;6
+  10-P-8011;10;Pièce;-;Visserie;Chantier;4;Vis Cylindrique M6x12;-;-;-;Inox Brut 2B;0;0;0;;;Brut;-;1;24
+10-E-4251;10;Assemblage;-;Acier;Chantier;2;Assemblage Traverse;-;-;-;Divers;1952.16;81;60;13.72;1955886.72;IGP 5803 E 71755 A10;-;0;2
+  Esquisse 10-E-4251;;;;;;1;;;;;;;;;;;;;1;2
+  10-P-0171;10;Pièce;-;Usinage Acier;Production;1;Tube carré MSH 60x60x3.2;EN 10210;-;-;Acier;1952.16;60;60;10.86;858306.01;Brut;-;1;2
+  10-P-0272;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;1946.43;18;12;2.86;1097580.71;Brut;-;1;2
+10-E-4252;10;Assemblage;-;Acier;Chantier;2;Assemblage Traverse;-;-;-;Divers;1916.25;81;60;13.47;1920872.81;IGP 5803 E 71755 A10;-;0;2
+  Esquisse 10-E-4252;;;;;;1;;;;;;;;;;;;;1;2
+  10-P-0172;10;Pièce;-;Usinage Acier;Production;1;Tube carré MSH 60x60x3.2;EN 10210;-;-;Acier;1916.25;60;60;10.66;842544.37;Brut;-;1;2
+  10-P-0273;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;1912.25;18;12;2.81;1078328.45;Brut;-;1;2
+10-E-4060;10;Assemblage;-;Acier;Chantier;1;Cadre tubulaire;-;-;-;Divers;4393.85;2316.25;"RD3@Annotations@10-E-4060.moAssembly_c";260.75;26132038.56;IGP 5803 E 71755 A10;-;0;1
+  Esquisse 10-E-4060;;;;;;1;;;;;;;;;;;;;1;1
+  10-P-0080;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 180x80x4.5;EN 10210;-;-;Acier;4262.74;180;80;74.17;4178219.61;Brut;-;1;1
+  10-P-0081;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 180x80x4.5;EN 10210;-;-;Acier;3871.24;180;80;67.35;3794237.80;Brut;-;1;1
+  10-P-0167;10;Pièce;-;Usinage Acier;Production;3;Tube carré MSH 60x60x3.2;EN 10210;-;-;Acier;2036.25;60;60;11.32;895218.21;Brut;-;1;3
+  10-P-0168;10;Pièce;-;Usinage Acier;Production;2;Tube carré MSH 60x60x3.2;EN 10210;-;-;Acier;1030.29;60;60;5.73;453650.65;Brut;-;1;2
+  10-P-0169;10;Pièce;-;Usinage Acier;Production;1;Tube carré MSH 60x60x3.2;EN 10210;-;-;Acier;2316.25;60;60;12.85;1016849.04;Brut;-;1;1
+  10-P-0170;10;Pièce;-;Usinage Acier;Production;1;Tube carré MSH 60x60x3.2;EN 10210;-;-;Acier;2355.55;60;60;13.07;1034100.26;Brut;-;1;1
+  10-P-2131;10;Pièce;-;Tôlerie;Production;2;Tôle acier 8mm;-;-;-;Acier;274.01;180;8;2.76;95041.65;Brut;-;1;2
+    ;;;;;;-;Sheet;;;;;;;;2.76;;;;-1;
+  10-P-2130;10;Pièce;-;Tôlerie;Production;2;Tôle acier 8mm;-;-;-;Acier;274.01;180;8;2.77;94956.43;Brut;-;1;2
+    ;;;;;;-;Sheet;;;;;;;;2.77;;;;-1;
+  10-P-0264;10;Pièce;-;Usinage Acier;Production;3;Raico 129005;-;-;-;Acier;2192.25;18;12;3.22;1236055.28;Brut;-;1;3
+  10-P-0265;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;2351.55;18;12;3.46;1325791.27;Brut;-;1;1
+  10-P-0266;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;2312.25;18;12;3.40;1303652.49;Brut;-;1;1
+  10-P-0267;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;978.43;18;12;1.41;514006.65;Brut;-;1;1
+  10-P-0269;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;586.93;18;12;0.85;308773.57;Brut;-;1;1
+  10-P-0268;10;Pièce;-;Usinage Acier;Production;8;Raico 129005;-;-;-;Acier;1024.29;18;12;1.48;538046.66;Brut;-;1;8
+  10-P-3001;10;Pièce;-;Achat;Production;20;Cale à verre Raico 167356;-;-;-;Alu;100;35;18;0.04;11142.48;Brut;-;1;20
+  10-M12x50 Hexa-00;;;;;;8;;;;;;;;;;;;;1;8
+    10-P-8016;10;Pièce;-;Visserie;Chantier;1;Vis Hexa M12x50;DIN 933;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;2;8
+    10-P-8022;10;Pièce;-;Visserie;Chantier;1;Grande rondelle M8;DIN 9021;-;-;Inox Brut 2B;-;-;-;-;-;Brut;-;2;8
+  10-P-2090;10;Pièce;-;Tôlerie;Chantier;4;Tôle acier 3mm manchon;-;-;-;Acier;231.09;130;3;0.71;62304.59;Peint Antirouille;Zimo Z1 60my;1;4
+    ;;;;;;-;Sheet;;;;;;;;0.71;;;;-1;
+  10-P-8011;10;Pièce;-;Visserie;Chantier;8;Vis Cylindrique M6x12;-;-;-;Inox Brut 2B;0;0;0;;;Brut;-;1;8
+  10-E-4121;10;Assemblage;-;Acier;Chantier;6;Assemblage Manchon;-;-;-;Divers;53;100;53;0.29;25258.99;Peint Antirouille;Zimo Z1 60my;1;6
+    10-P-2001;10;Pièce;-;Tôlerie;Production;1;Tôle acier 3mm;-;-;-;Acier;188.09;53;3;0.21;20095.48;Brut;-;2;6
+      ;;;;;;-;Sheet;;;;;;;;0.21;;;;-1;
+    10-P-0900;10;Pièce;-;Usinage Acier;Production;2;Rond acier 8mm;-;-;-;Acier;100;8;0;0.04;2581.76;Brut;-;2;12
+10-E-4061;10;Assemblage;-;Acier;Chantier;1;Cadre tubulaire;-;-;-;Divers;3610.86;"RD2@Annotations@10-E-4061.moAssembly_c";"RD3@Annotations@10-E-4061.moAssembly_c";178.27;17296933.95;IGP 5803 E 71755 A10;-;0;1
+  Esquisse 10-E-4061;;;;;;1;;;;;;;;;;;;;1;1
+  10-P-0082;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 180x80x4.5;EN 10210;-;-;Acier;3479.75;180;80;60.52;3410244.57;Brut;-;1;1
+  10-P-0176;10;Pièce;-;Usinage Acier;Production;1;Tube carré MSH 60x60x3.2;EN 10210;-;-;Acier;1563.14;60;60;8.63;683075.30;Brut;-;1;1
+  10-P-0177;10;Pièce;-;Usinage Acier;Production;1;Tube carré MSH 60x60x3.2;EN 10210;-;-;Acier;1354.38;60;60;7.47;591440.62;Brut;-;1;1
+  10-P-0174;10;Pièce;-;Usinage Acier;Production;1;Tube carré MSH 60x60x3.2;EN 10210;-;-;Acier;1285.62;60;60;7.08;560621.15;Brut;-;1;1
+  10-P-0175;10;Pièce;-;Usinage Acier;Production;1;Tube carré MSH 60x60x3.2;EN 10210;-;-;Acier;1925.12;60;60;10.66;843792.65;Brut;-;1;1
+  10-P-2200;10;Pièce;-;Tôlerie;Production;2;Tôle acier 3mm;-;-;-;Acier;252.46;140;3;0.47;42311.21;Brut;-;1;2
+    ;;;;;;-;Sheet;;;;;;;;0.47;;;;-1;
+  10-P-2201;10;Pièce;-;Tôlerie;Production;2;Tôle acier 3mm;-;-;-;Acier;252.46;140;3;0.47;42311.21;Brut;-;1;2
+    ;;;;;;-;Sheet;;;;;;;;0.47;;;;-1;
+  10-P-2150;10;Pièce;-;Tôlerie;Production;1;Tôle acier 4mm;-;-;-;Acier;"RD1@Annotations@10-P-2150.moPart_c";"RD2@Annotations@10-P-2150.moPart_c";"RD3@Annotations@10-P-2150.moPart_c";53.90;3449172.39;Brut;-;1;1
+    ;;;;;;-;Sheet;;;;;;;;53.90;;;;-1;
+  10-P-2130;10;Pièce;-;Tôlerie;Production;1;Tôle acier 8mm;-;-;-;Acier;274.01;180;8;2.77;94956.43;Brut;-;1;1
+    ;;;;;;-;Sheet;;;;;;;;2.77;;;;-1;
+  10-P-2131;10;Pièce;-;Tôlerie;Production;1;Tôle acier 8mm;-;-;-;Acier;274.01;180;8;2.76;95041.65;Brut;-;1;1
+    ;;;;;;-;Sheet;;;;;;;;2.76;;;;-1;
+  10-P-0270;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;1285.72;18;12;1.86;675099.28;Brut;-;1;1
+  10-P-0268;10;Pièce;-;Usinage Acier;Production;2;Raico 129005;-;-;-;Acier;1024.29;18;12;1.48;538046.66;Brut;-;1;2
+  10-P-0278;10;Pièce;-;Usinage Acier;Production;2;Raico 129005;-;-;-;Acier;1042.89;18;12;1.51;547801.02;Brut;-;1;2
+  10-P-0277;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;968.75;18;12;1.40;508933.28;Brut;-;1;1
+  10-P-0279;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;1684.86;18;12;2.48;950233.16;Brut;-;1;1
+  10-P-0280;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;1476.10;18;12;2.17;832636.46;Brut;-;1;1
+  10-P-0275;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;1971.51;18;12;2.90;1111709.54;Brut;-;1;1
+  10-P-0276;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;1327.34;18;12;1.95;748838.36;Brut;-;1;1
+  10-P-3001;10;Pièce;-;Achat;Production;12;Cale à verre Raico 167356;-;-;-;Alu;100;35;18;0.04;11142.48;Brut;-;1;12
+  10-M12x50 Hexa-00;;;;;;12;;;;;;;;;;;;;1;12
+    10-P-8016;10;Pièce;-;Visserie;Chantier;1;Vis Hexa M12x50;DIN 933;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;2;12
+    10-P-8022;10;Pièce;-;Visserie;Chantier;1;Grande rondelle M8;DIN 9021;-;-;Inox Brut 2B;-;-;-;-;-;Brut;-;2;12
+  10-P-2090;10;Pièce;-;Tôlerie;Chantier;2;Tôle acier 3mm manchon;-;-;-;Acier;231.09;130;3;0.71;62304.59;Peint Antirouille;Zimo Z1 60my;1;2
+    ;;;;;;-;Sheet;;;;;;;;0.71;;;;-1;
+  10-P-8011;10;Pièce;-;Visserie;Chantier;4;Vis Cylindrique M6x12;-;-;-;Inox Brut 2B;0;0;0;;;Brut;-;1;4
+  10-E-4121;10;Assemblage;-;Acier;Chantier;3;Assemblage Manchon;-;-;-;Divers;53;100;53;0.29;25258.99;Peint Antirouille;Zimo Z1 60my;1;3
+    10-P-2001;10;Pièce;-;Tôlerie;Production;1;Tôle acier 3mm;-;-;-;Acier;188.09;53;3;0.21;20095.48;Brut;-;2;3
+      ;;;;;;-;Sheet;;;;;;;;0.21;;;;-1;
+    10-P-0900;10;Pièce;-;Usinage Acier;Production;2;Rond acier 8mm;-;-;-;Acier;100;8;0;0.04;2581.76;Brut;-;2;6
+10-E-4062;10;Assemblage;-;Acier;Chantier;1;Cadre tubulaire;-;-;-;Divers;"RD1@Annotations@10-E-4062.moAssembly_c";"RD2@Annotations@10-E-4062.moAssembly_c";"RD3@Annotations@10-E-4062.moAssembly_c";240.21;25230319.47;IGP 5803 E 71755 A10;-;0;1
+  Esquisse 10-E-4062;;;;;;1;;;;;;;;;;;;;1;1
+  10-P-0083;10;Pièce;-;Usinage Acier;Production;1;Tube rectangulaire MSH 180x80x4.5;EN 10210;-;-;Acier;4654.23;180;80;81.00;4562213.99;Brut;-;1;1
+  10-P-0178;10;Pièce;-;Usinage Acier;Production;1;Tube carré MSH 60x60x3.2;EN 10210;-;-;Acier;1930.01;60;60;10.73;848582.35;Brut;-;1;1
+  10-P-0181;10;Pièce;-;Usinage Acier;Production;1;Tube carré MSH 60x60x3.2;EN 10210;-;-;Acier;1930.01;60;60;10.73;848582.36;Brut;-;1;1
+  10-P-0182;10;Pièce;-;Usinage Acier;Production;1;Tube carré MSH 60x60x3.2;EN 10210;-;-;Acier;1930.01;60;60;10.73;848582.36;Brut;-;1;1
+  10-P-0183;10;Pièce;-;Usinage Acier;Production;1;Tube carré MSH 60x60x3.2;EN 10210;-;-;Acier;1930.01;60;60;10.73;848582.34;Brut;-;1;1
+  10-P-0179;10;Pièce;-;Usinage Acier;Production;1;Tube carré MSH 60x60x3.2;EN 10210;-;-;Acier;2130.01;60;60;11.83;935734.71;Brut;-;1;1
+  10-P-0180;10;Pièce;-;Usinage Acier;Production;1;Tube carré MSH 60x60x3.2;EN 10210;-;-;Acier;2150.98;60;60;12.03;951608.58;Brut;-;1;1
+  10-P-0184;10;Pièce;-;Usinage Acier;Production;1;Tube carré MSH 60x60x3.2;EN 10210;-;-;Acier;5022.38;60;60;27.90;2203543.97;Brut;-;1;1
+  10-P-2133;10;Pièce;-;Tôlerie;Production;1;Tôle acier 8mm;-;-;-;Acier;367.11;274.01;8;4.55;154546.16;Brut;-;1;1
+    ;;;;;;-;Sheet;;;;;;;;4.55;;;;-1;
+  10-P-2132;10;Pièce;-;Tôlerie;Production;1;Tôle acier 8mm;-;-;-;Acier;406.88;289.11;8;5.97;200390.99;Brut;-;1;1
+    ;;;;;;-;Sheet;;;;;;;;5.97;;;;-1;
+  10-P-2160;10;Pièce;-;Tôlerie;Chantier;4;Tôle acier 6mm;-;-;-;Acier;443.13;160;"RD3@Annotations@Pièce11.moPart_c";3.21;143962.08;Brut;-;1;4
+    ;;;;;;-;Sheet;;;;;;;;3.21;;;;-1;
+  10-P-2130;10;Pièce;-;Tôlerie;Production;1;Tôle acier 8mm;-;-;-;Acier;274.01;180;8;2.77;94956.43;Brut;-;1;1
+    ;;;;;;-;Sheet;;;;;;;;2.77;;;;-1;
+  10-P-2131;10;Pièce;-;Tôlerie;Production;1;Tôle acier 8mm;-;-;-;Acier;274.01;180;8;2.76;95041.65;Brut;-;1;1
+    ;;;;;;-;Sheet;;;;;;;;2.76;;;;-1;
+  10-P-0281;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;2066.01;18;12;3.04;1164940.50;Brut;-;1;1
+  10-P-0287;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;2066.01;18;12;3.04;1164940.51;Brut;-;1;1
+  10-P-0288;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;2066.01;18;12;3.04;1164940.52;Brut;-;1;1
+  10-P-0282;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;2162.12;18;12;3.18;1219078.63;Brut;-;1;1
+  10-P-0283;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;2126.01;18;12;3.12;1198739.14;Brut;-;1;1
+  10-P-0310;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;1369.92;18;12;1.98;719239.72;Brut;-;1;1
+  10-P-0268;10;Pièce;-;Usinage Acier;Production;2;Raico 129005;-;-;-;Acier;1024.29;18;12;1.48;538046.66;Brut;-;1;2
+  10-P-0284;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;1024.29;18;12;1.48;538046.66;Brut;-;1;1
+  10-P-0285;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;1024.29;18;12;1.48;538046.66;Brut;-;1;1
+  10-P-0286;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;1934.01;18;12;2.79;900747.56;Brut;-;1;1
+  10-P-0289;10;Pièce;-;Usinage Acier;Production;2;Raico 129005;-;-;-;Acier;1024.29;18;12;1.48;538046.66;Brut;-;1;2
+  10-P-0290;10;Pièce;-;Usinage Acier;Production;1;Raico 129005;-;-;-;Acier;1739.92;18;12;2.51;913199.47;Brut;-;1;1
+  10-P-3001;10;Pièce;-;Achat;Production;9;Cale à verre Raico 167356;-;-;-;Alu;100;35;18;0.04;11142.48;Brut;-;1;9
+  10-M12x50 Hexa-00;;;;;;16;;;;;;;;;;;;;1;16
+    10-P-8016;10;Pièce;-;Visserie;Chantier;1;Vis Hexa M12x50;DIN 933;-;-;Inox Brut 2B;0;0;0;0;0;Brut;-;2;16
+    10-P-8022;10;Pièce;-;Visserie;Chantier;1;Grande rondelle M8;DIN 9021;-;-;Inox Brut 2B;-;-;-;-;-;Brut;-;2;16
+  10-P-2090;10;Pièce;-;Tôlerie;Chantier;2;Tôle acier 3mm manchon;-;-;-;Acier;231.09;130;3;0.71;62304.59;Peint Antirouille;Zimo Z1 60my;1;2
+    ;;;;;;-;Sheet;;;;;;;;0.71;;;;-1;
+  10-P-8011;10;Pièce;-;Visserie;Chantier;4;Vis Cylindrique M6x12;-;-;-;Inox Brut 2B;0;0;0;;;Brut;-;1;4
+  10-E-4121;10;Assemblage;-;Acier;Chantier;3;Assemblage Manchon;-;-;-;Divers;53;100;53;0.29;25258.99;Peint Antirouille;Zimo Z1 60my;1;3
+    10-P-2001;10;Pièce;-;Tôlerie;Production;1;Tôle acier 3mm;-;-;-;Acier;188.09;53;3;0.21;20095.48;Brut;-;2;3
+      ;;;;;;-;Sheet;;;;;;;;0.21;;;;-1;
+    10-P-0900;10;Pièce;-;Usinage Acier;Production;2;Rond acier 8mm;-;-;-;Acier;100;8;0;0.04;2581.76;Brut;-;2;6
